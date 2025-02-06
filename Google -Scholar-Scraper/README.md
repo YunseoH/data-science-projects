@@ -10,7 +10,6 @@ This package provides tools to scrape, store, and analyze author and publication
 - **`gscholar/`** - Core package for scraping and database management.
 - **`tests/`** - Unit tests for different components.
 - **`scraper.ipynb`** - Jupyter Notebook demonstrating package usage.
-- **`requirements.txt`** - Dependencies.
 - **`setup.py` / `setup.cfg`** - Package setup.
 
 
