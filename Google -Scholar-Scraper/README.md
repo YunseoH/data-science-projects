@@ -1,25 +1,69 @@
-# Google Scholar Scraper 📚🔍  
+# Google Scholar API Package 📚🔍  
 
-This project is a **Python package for scraping and analyzing Google Scholar data**. It extracts **author profiles, publication details, citation networks**, and stores them in a structured **SQLite database** for further analysis.  
+## Project Overview
+This package provides tools to scrape, store, and analyze author and publication data from **Google Scholar**. It includes:
+- Web scraping for Google Scholar author and publication pages.
+- Database storage for parsed data.
+- Utility functions to compute **H-Index** and visualize citation graphs.
 
-## **Features**
-- **Extract Author Profiles**: Retrieves author names, affiliations, h-index, and citation counts.
-- **Retrieve Publications**: Collects publication titles, venues, citations, and co-authors.
-- **Web Crawling**: `GoogleScholarCrawler.py` **automates navigation through Google Scholar pages** and handles pagination.
-- **Data Parsing**: `GoogleScholarParser.py` **extracts structured information** from raw HTML responses.
-- **Database Storage & Management**:
-  - Stores extracted data in **SQLite** via `GoogleScholarDB.py`.
-  - `GoogleScholarDBBuilder.py` **automates database population**.
-  - `get_h_index(author_id)`: Calculates an author’s **h-index** from stored publications.
-  - `get_citation_graph()`: Generates a **citation network graph** from stored data.
-- **Caching System**:
-  - `GoogleScholarCacheSQLite.py` and `GoogleScholarCacheFile.py` **store scraped web pages** to avoid redundant requests.
-- **Error Handling & Logging**:
-  - `GSError.py` defines **custom exceptions** for handling scraping errors.
-  - `logger.py` configures **logging** for debugging and tracking performance.
-- **Modular Design**:
-  - **`scraping/`**: Contains the **core scraper logic**.
-  - **`crawler/`**: Manages **web requests and handles pagination**.
-  - **`parser/`**: Extracts **structured data from raw HTML**.
-  - **`db/`**: Manages **database interactions and schema creation**.
-  - **`utils/`**: Contains **helper functions for logging, error handling, and caching**.
+## Project Structure
+- **`gscholar/`** - Core package for scraping and database management.
+- **`tests/`** - Unit tests for different components.
+- **`scraper.ipynb`** - Jupyter Notebook demonstrating package usage.
+- **`requirements.txt`** - Dependencies.
+- **`setup.py` / `setup.cfg`** - Package setup.
+
+
+## Features
+### 1. Scraping Google Scholar Data
+```python
+from gscholar.scraping.GoogleScholar import GoogleScholar
+from gscholar.scraping.cache.GoogleScholarCacheSQLite import GoogleScholarCacheSQLite
+
+db_cache = GoogleScholarCacheSQLite("cache.sqlite")
+gs = GoogleScholar(cache=db_cache)
+
+author_id = "yySZFKoAAAAJ"
+author_details = gs.get_author_details(author_id)
+print(author_details)
+```
+
+### 2. Storing and Querying Data
+```python
+from gscholar.GoogleScholarDB import GoogleScholarDB
+db = GoogleScholarDB("scholar_data.sqlite")
+db.add_author("yySZFKoAAAAJ", "Bruno Bodin")
+```
+
+### 3. Computing H-Index
+```python
+h_index = db.get_h_index("yySZFKoAAAAJ")
+print(f"H-Index: {h_index}")
+```
+
+### 4. Citation Graph Visualization
+```python
+import networkx as nx
+graph = db.get_citation_graph()
+nx.draw(graph, node_size=100, with_labels=True)
+```
+
+## 🛠 Running Tests
+Run the full test suite using:
+```sh
+tox
+```
+Example output:
+```sh
+============================================= test session starts =============================================
+collected 28 items
+
+tests/test_GSCacheCopy.py ..     [  7%]
+tests/test_GSCrawler.py .        [ 10%]
+tests/test_GSDB.py ......        [ 32%]
+tests/test_GSDBBuilder.py ....   [ 46%]
+tests/test_GoogleScholarCache.py ........   [ 89%]
+tests/test_GoogleScholarParser.py ...   [100%]
+
+======================================= 24 passed, 4 skipped =======================================
+```
