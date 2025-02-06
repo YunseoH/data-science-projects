@@ -9,7 +9,7 @@ This project focuses on **deciphering a proprietary earthquake hazard data forma
 - Generates **visualizations** to identify trends, distributions, and correlations in the dataset.  
 
 ## Files in this Repository  
-- **Decipher.py** – Python script to parse, process, and visualize the earthquake hazard data.  
+- **Decipher_code.py** – Python script to parse, process, and visualize the earthquake hazard data.  
 - **Decipher.pdf** – Detailed report explaining the deciphering approach, analysis, and findings.  
 
 ## Technologies Used  
