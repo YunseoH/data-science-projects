@@ -1,0 +1,8876 @@
+[
+  {
+    "timestamp": 1686591574908,
+    "elevation": 121,
+    "source_type": 0,
+    "duration": 4908,
+    "distance": 0,
+    "elevation_gain": 0,
+    "elevation_loss": 0
+  },
+  {
+    "timestamp": 1686591581938,
+    "elevation": 119,
+    "source_type": 0,
+    "duration": 11938,
+    "distance": 9,
+    "elevation_gain": 0,
+    "elevation_loss": 0
+  },
+  {
+    "timestamp": 1686591583214,
+    "elevation": 119,
+    "source_type": 0,
+    "duration": 13214,
+    "distance": 9,
+    "elevation_gain": 0,
+    "elevation_loss": 0
+  },
+  {
+    "timestamp": 1686591585236,
+    "elevation": 119,
+    "source_type": 0,
+    "duration": 15236,
+    "distance": 9,
+    "elevation_gain": 0,
+    "elevation_loss": 0
+  },
+  {
+    "timestamp": 1686591587241,
+    "elevation": 116,
+    "source_type": 0,
+    "duration": 17241,
+    "distance": 19,
+    "elevation_gain": 0,
+    "elevation_loss": 5
+  },
+  {
+    "timestamp": 1686591591255,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 21255,
+    "distance": 27,
+    "elevation_gain": 0,
+    "elevation_loss": 6
+  },
+  {
+    "timestamp": 1686591595343,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 25343,
+    "distance": 34,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591597238,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 27238,
+    "distance": 34,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591599245,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 29245,
+    "distance": 44,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591601283,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 31283,
+    "distance": 44,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591603263,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 33263,
+    "distance": 53,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591605412,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 35413,
+    "distance": 53,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591607289,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 37289,
+    "distance": 60,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591609294,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 39294,
+    "distance": 60,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591613343,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 43343,
+    "distance": 69,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591618268,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 48268,
+    "distance": 78,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591620273,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 50273,
+    "distance": 78,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591622270,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 52270,
+    "distance": 85,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591624318,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 54318,
+    "distance": 85,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591626293,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 56293,
+    "distance": 98,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591628289,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 58289,
+    "distance": 104,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591630419,
+    "elevation": 115,
+    "source_type": 0,
+    "duration": 60419,
+    "distance": 104,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591632276,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 62276,
+    "distance": 112,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591634301,
+    "elevation": 114,
+    "source_type": 0,
+    "duration": 64301,
+    "distance": 112,
+    "elevation_gain": 0,
+    "elevation_loss": 7
+  },
+  {
+    "timestamp": 1686591636291,
+    "elevation": 108,
+    "source_type": 0,
+    "duration": 66291,
+    "distance": 112,
+    "elevation_gain": 0,
+    "elevation_loss": 13
+  },
+  {
+    "timestamp": 1686591638575,
+    "elevation": 108,
+    "source_type": 0,
+    "duration": 68575,
+    "distance": 122,
+    "elevation_gain": 0,
+    "elevation_loss": 13
+  },
+  {
+    "timestamp": 1686591640376,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 70377,
+    "distance": 128,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591644290,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 74290,
+    "distance": 139,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591648276,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 78276,
+    "distance": 147,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591654265,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 84266,
+    "distance": 155,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591656279,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 86279,
+    "distance": 155,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591658269,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 88269,
+    "distance": 162,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591662349,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 92349,
+    "distance": 170,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591666278,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 96278,
+    "distance": 177,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591668294,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 98294,
+    "distance": 177,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591670311,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 100311,
+    "distance": 184,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591674281,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 104282,
+    "distance": 184,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591676277,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 106277,
+    "distance": 193,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591678303,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 108303,
+    "distance": 193,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591680308,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 110308,
+    "distance": 200,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591685301,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 115301,
+    "distance": 204,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591687278,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 117278,
+    "distance": 208,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591689299,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 119299,
+    "distance": 212,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591691330,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 121330,
+    "distance": 216,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591693284,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 123285,
+    "distance": 221,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591695293,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 125293,
+    "distance": 229,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591697281,
+    "elevation": 107,
+    "source_type": 0,
+    "duration": 127281,
+    "distance": 229,
+    "elevation_gain": 0,
+    "elevation_loss": 14
+  },
+  {
+    "timestamp": 1686591699293,
+    "elevation": 106,
+    "source_type": 0,
+    "duration": 129293,
+    "distance": 229,
+    "elevation_gain": 0,
+    "elevation_loss": 15
+  },
+  {
+    "timestamp": 1686591701284,
+    "elevation": 106,
+    "source_type": 0,
+    "duration": 131284,
+    "distance": 239,
+    "elevation_gain": 0,
+    "elevation_loss": 15
+  },
+  {
+    "timestamp": 1686591703277,
+    "elevation": 106,
+    "source_type": 0,
+    "duration": 133277,
+    "distance": 239,
+    "elevation_gain": 0,
+    "elevation_loss": 15
+  },
+  {
+    "timestamp": 1686591705274,
+    "elevation": 106,
+    "source_type": 0,
+    "duration": 135274,
+    "distance": 245,
+    "elevation_gain": 0,
+    "elevation_loss": 15
+  },
+  {
+    "timestamp": 1686591707287,
+    "elevation": 106,
+    "source_type": 0,
+    "duration": 137287,
+    "distance": 245,
+    "elevation_gain": 0,
+    "elevation_loss": 15
+  },
+  {
+    "timestamp": 1686591711296,
+    "elevation": 106,
+    "source_type": 0,
+    "duration": 141296,
+    "distance": 254,
+    "elevation_gain": 0,
+    "elevation_loss": 15
+  },
+  {
+    "timestamp": 1686591717284,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 147284,
+    "distance": 265,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591721291,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 151291,
+    "distance": 271,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591723297,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 153297,
+    "distance": 271,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591727274,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 157274,
+    "distance": 280,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591729284,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 159284,
+    "distance": 280,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591731292,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 161292,
+    "distance": 287,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591733335,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 163335,
+    "distance": 287,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591735294,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 165294,
+    "distance": 287,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591737275,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 167275,
+    "distance": 297,
+    "elevation_gain": 0,
+    "elevation_loss": 16
+  },
+  {
+    "timestamp": 1686591741316,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 171316,
+    "distance": 306,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591745304,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 175304,
+    "distance": 316,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591749304,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 179304,
+    "distance": 316,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591751267,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 181267,
+    "distance": 325,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591753297,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 183298,
+    "distance": 325,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591756280,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 186280,
+    "distance": 336,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591760281,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 190282,
+    "distance": 342,
+    "elevation_gain": 0,
+    "elevation_loss": 17
+  },
+  {
+    "timestamp": 1686591762276,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 192276,
+    "distance": 342,
+    "elevation_gain": 0,
+    "elevation_loss": 19
+  },
+  {
+    "timestamp": 1686591764286,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 194286,
+    "distance": 342,
+    "elevation_gain": 0,
+    "elevation_loss": 19
+  },
+  {
+    "timestamp": 1686591766273,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 196273,
+    "distance": 342,
+    "elevation_gain": 0,
+    "elevation_loss": 19
+  },
+  {
+    "timestamp": 1686591768284,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 198284,
+    "distance": 351,
+    "elevation_gain": 0,
+    "elevation_loss": 19
+  },
+  {
+    "timestamp": 1686591770349,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 200349,
+    "distance": 351,
+    "elevation_gain": 0,
+    "elevation_loss": 19
+  },
+  {
+    "timestamp": 1686591772273,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 202273,
+    "distance": 351,
+    "elevation_gain": 0,
+    "elevation_loss": 19
+  },
+  {
+    "timestamp": 1686591774281,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 204281,
+    "distance": 357,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591776320,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 206321,
+    "distance": 357,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591778277,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 208277,
+    "distance": 357,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591780291,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 210291,
+    "distance": 367,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591784287,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 214287,
+    "distance": 374,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591786311,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 216311,
+    "distance": 374,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591788301,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 218301,
+    "distance": 381,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591790281,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 220281,
+    "distance": 381,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591792313,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 222313,
+    "distance": 388,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591798278,
+    "elevation": 101,
+    "source_type": 0,
+    "duration": 228278,
+    "distance": 393,
+    "elevation_gain": 0,
+    "elevation_loss": 20
+  },
+  {
+    "timestamp": 1686591800268,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 230268,
+    "distance": 397,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591803302,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 233302,
+    "distance": 402,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591805287,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 235287,
+    "distance": 406,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591808291,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 238291,
+    "distance": 411,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591810315,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 240315,
+    "distance": 419,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591814408,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 244408,
+    "distance": 426,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591816291,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 246291,
+    "distance": 426,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591818302,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 248302,
+    "distance": 426,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591820275,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 250275,
+    "distance": 434,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591822332,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 252332,
+    "distance": 434,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591824290,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 254290,
+    "distance": 443,
+    "elevation_gain": 0,
+    "elevation_loss": 21
+  },
+  {
+    "timestamp": 1686591826324,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 256324,
+    "distance": 443,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591828284,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 258284,
+    "distance": 452,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591834280,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 264280,
+    "distance": 463,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591838268,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 268268,
+    "distance": 469,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591840297,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 270297,
+    "distance": 469,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591842265,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 272266,
+    "distance": 469,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591844289,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 274289,
+    "distance": 477,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591846327,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 276327,
+    "distance": 477,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591848290,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 278290,
+    "distance": 477,
+    "elevation_gain": 0,
+    "elevation_loss": 23
+  },
+  {
+    "timestamp": 1686591850275,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 280275,
+    "distance": 487,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591856281,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 286282,
+    "distance": 497,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591858323,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 288323,
+    "distance": 497,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591860291,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 290291,
+    "distance": 506,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591862296,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 292296,
+    "distance": 506,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591864291,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 294291,
+    "distance": 514,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591866328,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 296328,
+    "distance": 514,
+    "elevation_gain": 0,
+    "elevation_loss": 24
+  },
+  {
+    "timestamp": 1686591868295,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 298295,
+    "distance": 523,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591872331,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 302331,
+    "distance": 531,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591876273,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 306273,
+    "distance": 538,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591878290,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 308290,
+    "distance": 538,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591880291,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 310291,
+    "distance": 538,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591882301,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 312301,
+    "distance": 547,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591886328,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 316328,
+    "distance": 556,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591888294,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 318294,
+    "distance": 556,
+    "elevation_gain": 0,
+    "elevation_loss": 25
+  },
+  {
+    "timestamp": 1686591890296,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 320296,
+    "distance": 563,
+    "elevation_gain": 0,
+    "elevation_loss": 28
+  },
+  {
+    "timestamp": 1686591896313,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 326313,
+    "distance": 573,
+    "elevation_gain": 0,
+    "elevation_loss": 28
+  },
+  {
+    "timestamp": 1686591898284,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 328285,
+    "distance": 573,
+    "elevation_gain": 0,
+    "elevation_loss": 28
+  },
+  {
+    "timestamp": 1686591900287,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 330287,
+    "distance": 573,
+    "elevation_gain": 0,
+    "elevation_loss": 28
+  },
+  {
+    "timestamp": 1686591902283,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 332283,
+    "distance": 582,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591906295,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 336295,
+    "distance": 593,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591910379,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 340379,
+    "distance": 599,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591916283,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 346283,
+    "distance": 604,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591918275,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 348275,
+    "distance": 607,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591920320,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 350320,
+    "distance": 611,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591922286,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 352286,
+    "distance": 611,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591924297,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 354297,
+    "distance": 615,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591926303,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 356303,
+    "distance": 619,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591928342,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 358342,
+    "distance": 623,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591930297,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 360298,
+    "distance": 628,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591932337,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 362337,
+    "distance": 632,
+    "elevation_gain": 0,
+    "elevation_loss": 29
+  },
+  {
+    "timestamp": 1686591934286,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 364286,
+    "distance": 643,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591936269,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 366269,
+    "distance": 643,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591938301,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 368301,
+    "distance": 652,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591940283,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 370283,
+    "distance": 652,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591942274,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 372274,
+    "distance": 652,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591945432,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 375433,
+    "distance": 664,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591949512,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 379512,
+    "distance": 671,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591951287,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 381287,
+    "distance": 671,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591953289,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 383289,
+    "distance": 677,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591955297,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 385297,
+    "distance": 677,
+    "elevation_gain": 0,
+    "elevation_loss": 30
+  },
+  {
+    "timestamp": 1686591959312,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 389312,
+    "distance": 685,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591961352,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 391352,
+    "distance": 685,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591963283,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 393283,
+    "distance": 691,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591967277,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 397277,
+    "distance": 701,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591971333,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 401333,
+    "distance": 710,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591977289,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 407289,
+    "distance": 718,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591979291,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 409291,
+    "distance": 718,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591983278,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 413278,
+    "distance": 727,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591987277,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 417277,
+    "distance": 734,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591991291,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 421291,
+    "distance": 742,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591995291,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 425291,
+    "distance": 751,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686591999280,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 429280,
+    "distance": 759,
+    "elevation_gain": 0,
+    "elevation_loss": 31
+  },
+  {
+    "timestamp": 1686592003289,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 433289,
+    "distance": 766,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592007297,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 437297,
+    "distance": 774,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592009320,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 439320,
+    "distance": 774,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592011289,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 441289,
+    "distance": 781,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592013311,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 443311,
+    "distance": 781,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592015317,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 445317,
+    "distance": 789,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592017314,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 447314,
+    "distance": 789,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592019276,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 449276,
+    "distance": 798,
+    "elevation_gain": 0,
+    "elevation_loss": 32
+  },
+  {
+    "timestamp": 1686592023289,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 453289,
+    "distance": 805,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592025304,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 455304,
+    "distance": 805,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592027309,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 457309,
+    "distance": 814,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592031277,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 461277,
+    "distance": 822,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592035293,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 465293,
+    "distance": 830,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592039303,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 469303,
+    "distance": 839,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592041279,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 471279,
+    "distance": 839,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592043330,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 473330,
+    "distance": 847,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592045307,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 475307,
+    "distance": 847,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592049304,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 479305,
+    "distance": 852,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592051309,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 481309,
+    "distance": 856,
+    "elevation_gain": 0,
+    "elevation_loss": 33
+  },
+  {
+    "timestamp": 1686592053317,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 483317,
+    "distance": 859,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592055300,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 485300,
+    "distance": 863,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592057277,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 487277,
+    "distance": 867,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592059297,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 489298,
+    "distance": 875,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592063319,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 493319,
+    "distance": 883,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592067316,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 497316,
+    "distance": 890,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592071355,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 501355,
+    "distance": 898,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592075299,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 505299,
+    "distance": 907,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592081304,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 511305,
+    "distance": 917,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592083290,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 513290,
+    "distance": 917,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592085307,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 515307,
+    "distance": 927,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592087293,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 517293,
+    "distance": 927,
+    "elevation_gain": 0,
+    "elevation_loss": 34
+  },
+  {
+    "timestamp": 1686592089291,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 519291,
+    "distance": 936,
+    "elevation_gain": 0,
+    "elevation_loss": 35
+  },
+  {
+    "timestamp": 1686592093294,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 523294,
+    "distance": 936,
+    "elevation_gain": 0,
+    "elevation_loss": 35
+  },
+  {
+    "timestamp": 1686592095309,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 525309,
+    "distance": 944,
+    "elevation_gain": 0,
+    "elevation_loss": 35
+  },
+  {
+    "timestamp": 1686592099300,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 529300,
+    "distance": 953,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592103315,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 533315,
+    "distance": 960,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592105340,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 535341,
+    "distance": 960,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592107304,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 537304,
+    "distance": 966,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592109314,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 539314,
+    "distance": 966,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592111312,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 541312,
+    "distance": 975,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592115296,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 545296,
+    "distance": 983,
+    "elevation_gain": 0,
+    "elevation_loss": 36
+  },
+  {
+    "timestamp": 1686592119304,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 549304,
+    "distance": 990,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592121295,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 551295,
+    "distance": 990,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592125308,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 555308,
+    "distance": 1000,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592129318,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 559318,
+    "distance": 1008,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592131290,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 561290,
+    "distance": 1008,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592133315,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 563315,
+    "distance": 1016,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592135295,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 565295,
+    "distance": 1016,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592137320,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 567320,
+    "distance": 1022,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592141328,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 571328,
+    "distance": 1030,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592145308,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 575308,
+    "distance": 1037,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592147294,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 577294,
+    "distance": 1037,
+    "elevation_gain": 0,
+    "elevation_loss": 37
+  },
+  {
+    "timestamp": 1686592149297,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 579298,
+    "distance": 1045,
+    "elevation_gain": 0,
+    "elevation_loss": 38
+  },
+  {
+    "timestamp": 1686592151307,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 581307,
+    "distance": 1045,
+    "elevation_gain": 0,
+    "elevation_loss": 40
+  },
+  {
+    "timestamp": 1686592153328,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 583328,
+    "distance": 1054,
+    "elevation_gain": 0,
+    "elevation_loss": 40
+  },
+  {
+    "timestamp": 1686592159299,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 589299,
+    "distance": 1064,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592163292,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 593292,
+    "distance": 1073,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592165287,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 595287,
+    "distance": 1073,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592167304,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 597305,
+    "distance": 1080,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592169304,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 599305,
+    "distance": 1080,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592171311,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 601311,
+    "distance": 1085,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592173293,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 603293,
+    "distance": 1090,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592175300,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 605300,
+    "distance": 1094,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592177284,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 607284,
+    "distance": 1098,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592179287,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 609287,
+    "distance": 1103,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592181297,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 611297,
+    "distance": 1111,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592183325,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 613325,
+    "distance": 1111,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592185294,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 615294,
+    "distance": 1111,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592187315,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 617315,
+    "distance": 1119,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592193428,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 623428,
+    "distance": 1129,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592197299,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 627299,
+    "distance": 1137,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592199308,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 629308,
+    "distance": 1137,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592201315,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 631315,
+    "distance": 1144,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592205337,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 635338,
+    "distance": 1152,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592207288,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 637288,
+    "distance": 1152,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592209296,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 639296,
+    "distance": 1160,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592211307,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 641307,
+    "distance": 1160,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592213304,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 643304,
+    "distance": 1168,
+    "elevation_gain": 0,
+    "elevation_loss": 41
+  },
+  {
+    "timestamp": 1686592215321,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 645322,
+    "distance": 1168,
+    "elevation_gain": 0,
+    "elevation_loss": 42
+  },
+  {
+    "timestamp": 1686592221571,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 651571,
+    "distance": 1180,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592225352,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 655352,
+    "distance": 1190,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592227293,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 657293,
+    "distance": 1190,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592229302,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 659302,
+    "distance": 1190,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592231307,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 661307,
+    "distance": 1200,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592233295,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 663295,
+    "distance": 1200,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592237314,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 667314,
+    "distance": 1211,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592239299,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 669299,
+    "distance": 1211,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592241304,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 671305,
+    "distance": 1222,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592247288,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 677288,
+    "distance": 1232,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592251303,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 681303,
+    "distance": 1239,
+    "elevation_gain": 0,
+    "elevation_loss": 43
+  },
+  {
+    "timestamp": 1686592255295,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 685295,
+    "distance": 1247,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592259317,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 689317,
+    "distance": 1255,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592263350,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 693350,
+    "distance": 1266,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592267317,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 697317,
+    "distance": 1273,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592269312,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 699312,
+    "distance": 1273,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592271305,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 701306,
+    "distance": 1282,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592273314,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 703314,
+    "distance": 1282,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592275333,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 705333,
+    "distance": 1282,
+    "elevation_gain": 0,
+    "elevation_loss": 44
+  },
+  {
+    "timestamp": 1686592277313,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 707313,
+    "distance": 1294,
+    "elevation_gain": 0,
+    "elevation_loss": 45
+  },
+  {
+    "timestamp": 1686592279325,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 709325,
+    "distance": 1294,
+    "elevation_gain": 0,
+    "elevation_loss": 45
+  },
+  {
+    "timestamp": 1686592281303,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 711303,
+    "distance": 1302,
+    "elevation_gain": 0,
+    "elevation_loss": 45
+  },
+  {
+    "timestamp": 1686592285305,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 715306,
+    "distance": 1311,
+    "elevation_gain": 0,
+    "elevation_loss": 47
+  },
+  {
+    "timestamp": 1686592289319,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 719319,
+    "distance": 1321,
+    "elevation_gain": 0,
+    "elevation_loss": 47
+  },
+  {
+    "timestamp": 1686592291325,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 721325,
+    "distance": 1321,
+    "elevation_gain": 0,
+    "elevation_loss": 47
+  },
+  {
+    "timestamp": 1686592293304,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 723305,
+    "distance": 1325,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592295300,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 725300,
+    "distance": 1328,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592297311,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 727311,
+    "distance": 1332,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592299328,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 729328,
+    "distance": 1332,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592301363,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 731363,
+    "distance": 1337,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592303312,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 733312,
+    "distance": 1342,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592305304,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 735305,
+    "distance": 1346,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592307295,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 737295,
+    "distance": 1350,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592309300,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 739300,
+    "distance": 1354,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592311321,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 741322,
+    "distance": 1363,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592315310,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 745310,
+    "distance": 1374,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592317300,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 747300,
+    "distance": 1374,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592319324,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 749324,
+    "distance": 1381,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592321299,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 751299,
+    "distance": 1381,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592323311,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 753311,
+    "distance": 1389,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592325356,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 755356,
+    "distance": 1389,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592327311,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 757311,
+    "distance": 1398,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592329358,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 759358,
+    "distance": 1398,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592331297,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 761297,
+    "distance": 1398,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592333301,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 763301,
+    "distance": 1409,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592335329,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 765329,
+    "distance": 1409,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592337319,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 767319,
+    "distance": 1417,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592341382,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 771382,
+    "distance": 1417,
+    "elevation_gain": 0,
+    "elevation_loss": 48
+  },
+  {
+    "timestamp": 1686592343292,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 773292,
+    "distance": 1427,
+    "elevation_gain": 0,
+    "elevation_loss": 49
+  },
+  {
+    "timestamp": 1686592349308,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 779308,
+    "distance": 1436,
+    "elevation_gain": 0,
+    "elevation_loss": 49
+  },
+  {
+    "timestamp": 1686592351309,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 781309,
+    "distance": 1436,
+    "elevation_gain": 0,
+    "elevation_loss": 50
+  },
+  {
+    "timestamp": 1686592353365,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 783365,
+    "distance": 1445,
+    "elevation_gain": 0,
+    "elevation_loss": 50
+  },
+  {
+    "timestamp": 1686592357333,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 787333,
+    "distance": 1451,
+    "elevation_gain": 0,
+    "elevation_loss": 50
+  },
+  {
+    "timestamp": 1686592361310,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 791310,
+    "distance": 1460,
+    "elevation_gain": 0,
+    "elevation_loss": 50
+  },
+  {
+    "timestamp": 1686592363315,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 793315,
+    "distance": 1460,
+    "elevation_gain": 0,
+    "elevation_loss": 50
+  },
+  {
+    "timestamp": 1686592365301,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 795301,
+    "distance": 1469,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592367313,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 797313,
+    "distance": 1469,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592369360,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 799361,
+    "distance": 1476,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592373314,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 803314,
+    "distance": 1484,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592375324,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 805324,
+    "distance": 1484,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592377335,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 807335,
+    "distance": 1493,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592379297,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 809297,
+    "distance": 1493,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592381367,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 811367,
+    "distance": 1502,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592385304,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 815304,
+    "distance": 1509,
+    "elevation_gain": 0,
+    "elevation_loss": 51
+  },
+  {
+    "timestamp": 1686592389315,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 819315,
+    "distance": 1519,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592393343,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 823343,
+    "distance": 1529,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592397373,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 827373,
+    "distance": 1536,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592401290,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 831290,
+    "distance": 1548,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592405317,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 835317,
+    "distance": 1548,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592407323,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 837323,
+    "distance": 1560,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592409319,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 839319,
+    "distance": 1560,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592411332,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 841332,
+    "distance": 1571,
+    "elevation_gain": 0,
+    "elevation_loss": 52
+  },
+  {
+    "timestamp": 1686592415311,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 845311,
+    "distance": 1580,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592419326,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 849326,
+    "distance": 1591,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592421364,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 851364,
+    "distance": 1591,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592423356,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 853356,
+    "distance": 1595,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592425316,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 855316,
+    "distance": 1600,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592427312,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 857312,
+    "distance": 1604,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592429333,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 859333,
+    "distance": 1608,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592431309,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 861309,
+    "distance": 1612,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592433382,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 863382,
+    "distance": 1620,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592435318,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 865318,
+    "distance": 1628,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592439321,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 869322,
+    "distance": 1638,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592441310,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 871310,
+    "distance": 1638,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592443301,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 873301,
+    "distance": 1646,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592447328,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 877328,
+    "distance": 1654,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592451313,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 881313,
+    "distance": 1662,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592453359,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 883359,
+    "distance": 1662,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592455310,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 885310,
+    "distance": 1662,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592457319,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 887319,
+    "distance": 1671,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592459346,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 889346,
+    "distance": 1671,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592461534,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 891534,
+    "distance": 1680,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592466301,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 896301,
+    "distance": 1694,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592472387,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 902387,
+    "distance": 1704,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592474304,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 904304,
+    "distance": 1704,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592476364,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 906364,
+    "distance": 1704,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592478304,
+    "elevation": 67,
+    "source_type": 0,
+    "duration": 908305,
+    "distance": 1712,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592480329,
+    "elevation": 68,
+    "source_type": 0,
+    "duration": 910329,
+    "distance": 1712,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592482320,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 912321,
+    "distance": 1723,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592486324,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 916324,
+    "distance": 1733,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592488363,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 918363,
+    "distance": 1733,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592490321,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 920322,
+    "distance": 1740,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592492353,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 922353,
+    "distance": 1740,
+    "elevation_gain": 0,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592500320,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 930320,
+    "distance": 1762,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592504347,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 934347,
+    "distance": 1770,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592506318,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 936318,
+    "distance": 1770,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592508311,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 938311,
+    "distance": 1778,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592510326,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 940326,
+    "distance": 1778,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592512392,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 942392,
+    "distance": 1785,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592514316,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 944316,
+    "distance": 1785,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592516333,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 946333,
+    "distance": 1795,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592518337,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 948338,
+    "distance": 1795,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592520299,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 950299,
+    "distance": 1805,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592526318,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 956318,
+    "distance": 1814,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592528327,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 958327,
+    "distance": 1814,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592530346,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 960346,
+    "distance": 1821,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592532399,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 962399,
+    "distance": 1821,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592534320,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 964321,
+    "distance": 1830,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592538329,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 968329,
+    "distance": 1839,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592542301,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 972301,
+    "distance": 1847,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592546321,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 976322,
+    "distance": 1855,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592548316,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 978316,
+    "distance": 1855,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592550304,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 980305,
+    "distance": 1855,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592552327,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 982327,
+    "distance": 1860,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592554312,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 984312,
+    "distance": 1865,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592556325,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 986325,
+    "distance": 1869,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592558323,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 988323,
+    "distance": 1873,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592560372,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 990372,
+    "distance": 1876,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592562323,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 992323,
+    "distance": 1883,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592566326,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 996326,
+    "distance": 1891,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592568317,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 998317,
+    "distance": 1891,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592570310,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1000310,
+    "distance": 1898,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592577363,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1007363,
+    "distance": 1909,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592582353,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1012354,
+    "distance": 1922,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592584366,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1014366,
+    "distance": 1922,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592586315,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1016315,
+    "distance": 1933,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592588314,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1018314,
+    "distance": 1933,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592590314,
+    "elevation": 69,
+    "source_type": 0,
+    "duration": 1020314,
+    "distance": 1941,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592594308,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1024308,
+    "distance": 1949,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592598352,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1028352,
+    "distance": 1957,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592600328,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1030328,
+    "distance": 1957,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592602309,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1032309,
+    "distance": 1965,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592604328,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1034328,
+    "distance": 1965,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592606325,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1036325,
+    "distance": 1973,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592608328,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1038328,
+    "distance": 1973,
+    "elevation_gain": 3,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592610323,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1040323,
+    "distance": 1982,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592616309,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1046309,
+    "distance": 1991,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592618329,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1048329,
+    "distance": 1991,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592620335,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1050335,
+    "distance": 1991,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592622326,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1052326,
+    "distance": 2000,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592624342,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1054342,
+    "distance": 2000,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592626314,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1056314,
+    "distance": 2010,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592630333,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1060333,
+    "distance": 2017,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592634325,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1064325,
+    "distance": 2025,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592638323,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1068323,
+    "distance": 2034,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592642328,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1072328,
+    "distance": 2044,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592644329,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1074329,
+    "distance": 2044,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592646334,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1076334,
+    "distance": 2052,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592650323,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1080323,
+    "distance": 2060,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592654321,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1084322,
+    "distance": 2069,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592656368,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1086368,
+    "distance": 2069,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592658336,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1088336,
+    "distance": 2077,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592662311,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1092311,
+    "distance": 2086,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592666327,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1096327,
+    "distance": 2094,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592668329,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1098329,
+    "distance": 2094,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592670327,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1100327,
+    "distance": 2101,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592672400,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1102400,
+    "distance": 2101,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592674315,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1104315,
+    "distance": 2110,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592676324,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1106324,
+    "distance": 2110,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592678360,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1108360,
+    "distance": 2114,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592681319,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1111319,
+    "distance": 2119,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592683313,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1113313,
+    "distance": 2124,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592685317,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1115317,
+    "distance": 2129,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592687325,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1117325,
+    "distance": 2133,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592689335,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1119335,
+    "distance": 2133,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592691370,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1121370,
+    "distance": 2144,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592695321,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1125322,
+    "distance": 2155,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592697318,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1127318,
+    "distance": 2155,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592699353,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1129353,
+    "distance": 2165,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592701305,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1131306,
+    "distance": 2165,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592703342,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1133342,
+    "distance": 2173,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592707335,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1137335,
+    "distance": 2182,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592711324,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1141324,
+    "distance": 2190,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592713327,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1143327,
+    "distance": 2190,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592715326,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1145326,
+    "distance": 2198,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592717347,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1147347,
+    "distance": 2198,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592719380,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1149380,
+    "distance": 2206,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592721342,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1151342,
+    "distance": 2206,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592723329,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1153329,
+    "distance": 2213,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592725331,
+    "elevation": 70,
+    "source_type": 0,
+    "duration": 1155331,
+    "distance": 2213,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592727320,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1157321,
+    "distance": 2220,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592729329,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1159329,
+    "distance": 2220,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592731340,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1161340,
+    "distance": 2228,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592735356,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1165356,
+    "distance": 2237,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592739343,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1169343,
+    "distance": 2245,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592741319,
+    "elevation": 71,
+    "source_type": 0,
+    "duration": 1171319,
+    "distance": 2245,
+    "elevation_gain": 4,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592743347,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1173347,
+    "distance": 2252,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592745320,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1175321,
+    "distance": 2252,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592747313,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1177313,
+    "distance": 2259,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592751347,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1181347,
+    "distance": 2269,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592755327,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1185327,
+    "distance": 2279,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592759325,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1189325,
+    "distance": 2287,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592761344,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1191344,
+    "distance": 2287,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592763332,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1193332,
+    "distance": 2295,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592767368,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1197368,
+    "distance": 2304,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592769325,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1199325,
+    "distance": 2304,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592771319,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1201319,
+    "distance": 2312,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592773340,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1203340,
+    "distance": 2312,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592775373,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1205373,
+    "distance": 2319,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592777327,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1207327,
+    "distance": 2319,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592779337,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1209338,
+    "distance": 2327,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592781331,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1211331,
+    "distance": 2327,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592783362,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1213362,
+    "distance": 2337,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592787344,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1217344,
+    "distance": 2345,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592791358,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1221358,
+    "distance": 2354,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592793332,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1223332,
+    "distance": 2354,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592795335,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1225335,
+    "distance": 2361,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592797352,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1227352,
+    "distance": 2361,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592799360,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1229361,
+    "distance": 2372,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592803339,
+    "elevation": 72,
+    "source_type": 0,
+    "duration": 1233339,
+    "distance": 2380,
+    "elevation_gain": 5,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592807360,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1237360,
+    "distance": 2384,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592809373,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1239373,
+    "distance": 2388,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592811337,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1241337,
+    "distance": 2393,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592813345,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1243345,
+    "distance": 2397,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592815407,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1245407,
+    "distance": 2401,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592817343,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1247343,
+    "distance": 2410,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592821337,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1251337,
+    "distance": 2418,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592825333,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1255333,
+    "distance": 2426,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592827348,
+    "elevation": 73,
+    "source_type": 0,
+    "duration": 1257348,
+    "distance": 2426,
+    "elevation_gain": 6,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592829335,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1259335,
+    "distance": 2435,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592833327,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1263327,
+    "distance": 2444,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592835331,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1265331,
+    "distance": 2444,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592837339,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1267339,
+    "distance": 2454,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592839358,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1269358,
+    "distance": 2454,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592841337,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1271337,
+    "distance": 2461,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592843343,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1273343,
+    "distance": 2461,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592845337,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1275337,
+    "distance": 2468,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592849347,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1279347,
+    "distance": 2476,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592853335,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1283335,
+    "distance": 2483,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592855347,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1285347,
+    "distance": 2483,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592857353,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1287354,
+    "distance": 2491,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592859339,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1289339,
+    "distance": 2491,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592862340,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1292340,
+    "distance": 2499,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592866340,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1296341,
+    "distance": 2508,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592868337,
+    "elevation": 74,
+    "source_type": 0,
+    "duration": 1298337,
+    "distance": 2508,
+    "elevation_gain": 7,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592870343,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1300343,
+    "distance": 2517,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592872436,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1302436,
+    "distance": 2517,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592874326,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1304326,
+    "distance": 2525,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592876345,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1306345,
+    "distance": 2525,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592878330,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1308330,
+    "distance": 2535,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592880390,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1310390,
+    "distance": 2535,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592882332,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1312332,
+    "distance": 2544,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592886351,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1316351,
+    "distance": 2551,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592890349,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1320349,
+    "distance": 2559,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592892347,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1322347,
+    "distance": 2559,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592894734,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1324734,
+    "distance": 2568,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592896412,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1326412,
+    "distance": 2575,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592900351,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1330351,
+    "distance": 2588,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592904373,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1334373,
+    "distance": 2598,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592910334,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1340334,
+    "distance": 2607,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592912350,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1342350,
+    "distance": 2607,
+    "elevation_gain": 9,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592914337,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1344337,
+    "distance": 2620,
+    "elevation_gain": 10,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592916325,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1346325,
+    "distance": 2620,
+    "elevation_gain": 10,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592918360,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1348361,
+    "distance": 2628,
+    "elevation_gain": 10,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592922344,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1352344,
+    "distance": 2639,
+    "elevation_gain": 11,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592924348,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1354348,
+    "distance": 2646,
+    "elevation_gain": 11,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592928327,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1358327,
+    "distance": 2656,
+    "elevation_gain": 11,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592932350,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 1362350,
+    "distance": 2665,
+    "elevation_gain": 12,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592934343,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1364343,
+    "distance": 2665,
+    "elevation_gain": 15,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592936389,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1366389,
+    "distance": 2673,
+    "elevation_gain": 15,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592938345,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1368345,
+    "distance": 2673,
+    "elevation_gain": 15,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592940339,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1370339,
+    "distance": 2677,
+    "elevation_gain": 15,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592942359,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1372359,
+    "distance": 2682,
+    "elevation_gain": 15,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592944347,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1374347,
+    "distance": 2686,
+    "elevation_gain": 16,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592946328,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1376328,
+    "distance": 2690,
+    "elevation_gain": 16,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592948377,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1378378,
+    "distance": 2694,
+    "elevation_gain": 16,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592950356,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1380356,
+    "distance": 2702,
+    "elevation_gain": 16,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592954332,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1384332,
+    "distance": 2712,
+    "elevation_gain": 17,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592958353,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1388353,
+    "distance": 2721,
+    "elevation_gain": 17,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592960398,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1390398,
+    "distance": 2721,
+    "elevation_gain": 17,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592962350,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1392350,
+    "distance": 2732,
+    "elevation_gain": 17,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592964340,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1394340,
+    "distance": 2732,
+    "elevation_gain": 17,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592966366,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 1396366,
+    "distance": 2741,
+    "elevation_gain": 18,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592968340,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 1398341,
+    "distance": 2741,
+    "elevation_gain": 18,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592970345,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 1400345,
+    "distance": 2749,
+    "elevation_gain": 18,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592974367,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 1404367,
+    "distance": 2757,
+    "elevation_gain": 18,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592978344,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 1408344,
+    "distance": 2766,
+    "elevation_gain": 18,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592980376,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 1410376,
+    "distance": 2766,
+    "elevation_gain": 18,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592982373,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 1412373,
+    "distance": 2775,
+    "elevation_gain": 19,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592984342,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 1414342,
+    "distance": 2775,
+    "elevation_gain": 19,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592986340,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 1416340,
+    "distance": 2786,
+    "elevation_gain": 19,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592988386,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 1418386,
+    "distance": 2786,
+    "elevation_gain": 19,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592990329,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 1420329,
+    "distance": 2795,
+    "elevation_gain": 19,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592994345,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1424345,
+    "distance": 2803,
+    "elevation_gain": 20,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686592998351,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1428351,
+    "distance": 2812,
+    "elevation_gain": 25,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593000330,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1430330,
+    "distance": 2812,
+    "elevation_gain": 25,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593002348,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1432348,
+    "distance": 2820,
+    "elevation_gain": 25,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593006352,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1436352,
+    "distance": 2832,
+    "elevation_gain": 25,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593010356,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1440356,
+    "distance": 2842,
+    "elevation_gain": 25,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593012328,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1442328,
+    "distance": 2842,
+    "elevation_gain": 25,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593014452,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1444452,
+    "distance": 2850,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593018372,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1448372,
+    "distance": 2861,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593022353,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1452353,
+    "distance": 2869,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593026343,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1456343,
+    "distance": 2878,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593030349,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1460349,
+    "distance": 2888,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593032340,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1462340,
+    "distance": 2888,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593034342,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1464342,
+    "distance": 2894,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593038364,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1468364,
+    "distance": 2904,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593042356,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1472357,
+    "distance": 2914,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593044382,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1474382,
+    "distance": 2914,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593046355,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1476355,
+    "distance": 2923,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593048355,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1478355,
+    "distance": 2923,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593050343,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1480343,
+    "distance": 2932,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593052348,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1482348,
+    "distance": 2932,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593054370,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1484370,
+    "distance": 2941,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593056342,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1486342,
+    "distance": 2941,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593058380,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1488380,
+    "distance": 2951,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593060340,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1490340,
+    "distance": 2951,
+    "elevation_gain": 26,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593062375,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1492375,
+    "distance": 2960,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593064340,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1494340,
+    "distance": 2960,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593066342,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1496342,
+    "distance": 2969,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593070345,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1500345,
+    "distance": 2973,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593072347,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1502347,
+    "distance": 2977,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593074337,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1504338,
+    "distance": 2981,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593076334,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1506334,
+    "distance": 2985,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593078425,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1508425,
+    "distance": 2989,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593080351,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1510351,
+    "distance": 2997,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593082348,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1512348,
+    "distance": 2997,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593084409,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1514409,
+    "distance": 3005,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593086373,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1516373,
+    "distance": 3005,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593088336,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1518336,
+    "distance": 3013,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593092327,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1522327,
+    "distance": 3022,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593094388,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1524388,
+    "distance": 3029,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593096339,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1526339,
+    "distance": 3029,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593098367,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 1528367,
+    "distance": 3029,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593100334,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1530334,
+    "distance": 3039,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593104358,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1534358,
+    "distance": 3047,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593108356,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1538356,
+    "distance": 3056,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593110353,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1540353,
+    "distance": 3056,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593112337,
+    "elevation": 93,
+    "source_type": 0,
+    "duration": 1542338,
+    "distance": 3056,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593114353,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1544354,
+    "distance": 3066,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593118387,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1548387,
+    "distance": 3074,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593122371,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1552371,
+    "distance": 3084,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593124352,
+    "elevation": 92,
+    "source_type": 0,
+    "duration": 1554352,
+    "distance": 3084,
+    "elevation_gain": 27,
+    "elevation_loss": 54
+  },
+  {
+    "timestamp": 1686593126389,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 1556389,
+    "distance": 3092,
+    "elevation_gain": 27,
+    "elevation_loss": 59
+  },
+  {
+    "timestamp": 1686593130367,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 1560367,
+    "distance": 3101,
+    "elevation_gain": 27,
+    "elevation_loss": 59
+  },
+  {
+    "timestamp": 1686593134383,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1564383,
+    "distance": 3108,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593138377,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1568378,
+    "distance": 3118,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593142411,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1572411,
+    "distance": 3126,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593146340,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1576340,
+    "distance": 3134,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593148342,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1578342,
+    "distance": 3134,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593150384,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1580384,
+    "distance": 3142,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593154364,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1584364,
+    "distance": 3150,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593158383,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1588383,
+    "distance": 3157,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593160376,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 1590377,
+    "distance": 3157,
+    "elevation_gain": 27,
+    "elevation_loss": 60
+  },
+  {
+    "timestamp": 1686593162351,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1592351,
+    "distance": 3166,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593164353,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1594353,
+    "distance": 3166,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593166371,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1596371,
+    "distance": 3175,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593168360,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1598361,
+    "distance": 3175,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593170349,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1600349,
+    "distance": 3184,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593172358,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1602358,
+    "distance": 3184,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593174353,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1604354,
+    "distance": 3193,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593176340,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 1606340,
+    "distance": 3193,
+    "elevation_gain": 27,
+    "elevation_loss": 61
+  },
+  {
+    "timestamp": 1686593178342,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1608342,
+    "distance": 3202,
+    "elevation_gain": 27,
+    "elevation_loss": 62
+  },
+  {
+    "timestamp": 1686593180349,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1610349,
+    "distance": 3202,
+    "elevation_gain": 27,
+    "elevation_loss": 62
+  },
+  {
+    "timestamp": 1686593182353,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1612354,
+    "distance": 3202,
+    "elevation_gain": 27,
+    "elevation_loss": 62
+  },
+  {
+    "timestamp": 1686593184353,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1614353,
+    "distance": 3212,
+    "elevation_gain": 27,
+    "elevation_loss": 62
+  },
+  {
+    "timestamp": 1686593188339,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1618339,
+    "distance": 3221,
+    "elevation_gain": 27,
+    "elevation_loss": 62
+  },
+  {
+    "timestamp": 1686593190336,
+    "elevation": 87,
+    "source_type": 0,
+    "duration": 1620336,
+    "distance": 3221,
+    "elevation_gain": 27,
+    "elevation_loss": 62
+  },
+  {
+    "timestamp": 1686593192337,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1622338,
+    "distance": 3230,
+    "elevation_gain": 27,
+    "elevation_loss": 65
+  },
+  {
+    "timestamp": 1686593194336,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1624336,
+    "distance": 3230,
+    "elevation_gain": 27,
+    "elevation_loss": 65
+  },
+  {
+    "timestamp": 1686593196358,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 1626358,
+    "distance": 3234,
+    "elevation_gain": 27,
+    "elevation_loss": 65
+  },
+  {
+    "timestamp": 1686593198382,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1628382,
+    "distance": 3238,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593200370,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1630370,
+    "distance": 3242,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593202360,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1632360,
+    "distance": 3246,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593204356,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1634356,
+    "distance": 3250,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593206401,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1636401,
+    "distance": 3256,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593208349,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1638349,
+    "distance": 3256,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593210350,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1640350,
+    "distance": 3264,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593212365,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1642365,
+    "distance": 3264,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593214400,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1644400,
+    "distance": 3274,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593218348,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1648348,
+    "distance": 3281,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593220359,
+    "elevation": 83,
+    "source_type": 0,
+    "duration": 1650359,
+    "distance": 3281,
+    "elevation_gain": 27,
+    "elevation_loss": 66
+  },
+  {
+    "timestamp": 1686593222375,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1652375,
+    "distance": 3291,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593224350,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1654350,
+    "distance": 3291,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593226348,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1656348,
+    "distance": 3300,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593230359,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1660359,
+    "distance": 3310,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593234346,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1664346,
+    "distance": 3320,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593236353,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1666354,
+    "distance": 3320,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593238411,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1668411,
+    "distance": 3328,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593240344,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1670344,
+    "distance": 3328,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593242349,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1672349,
+    "distance": 3337,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593246343,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1676343,
+    "distance": 3346,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593250345,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1680345,
+    "distance": 3355,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593254381,
+    "elevation": 82,
+    "source_type": 0,
+    "duration": 1684381,
+    "distance": 3364,
+    "elevation_gain": 27,
+    "elevation_loss": 67
+  },
+  {
+    "timestamp": 1686593258374,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1688374,
+    "distance": 3374,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593260350,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1690350,
+    "distance": 3374,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593262386,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1692386,
+    "distance": 3381,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593264351,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1694351,
+    "distance": 3381,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593266347,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1696347,
+    "distance": 3389,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593270347,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1700347,
+    "distance": 3398,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593272366,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1702366,
+    "distance": 3398,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593274349,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1704349,
+    "distance": 3405,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593276356,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1706356,
+    "distance": 3412,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593280395,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1710395,
+    "distance": 3419,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593284360,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1714360,
+    "distance": 3428,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593288349,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1718349,
+    "distance": 3437,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593290359,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1720359,
+    "distance": 3437,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593292353,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1722353,
+    "distance": 3446,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593294373,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1724373,
+    "distance": 3446,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593296358,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1726358,
+    "distance": 3454,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593300363,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1730363,
+    "distance": 3463,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593302353,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1732354,
+    "distance": 3470,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593306353,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1736354,
+    "distance": 3482,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593308335,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 1738335,
+    "distance": 3482,
+    "elevation_gain": 27,
+    "elevation_loss": 68
+  },
+  {
+    "timestamp": 1686593310379,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 1740379,
+    "distance": 3490,
+    "elevation_gain": 27,
+    "elevation_loss": 69
+  },
+  {
+    "timestamp": 1686593312411,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 1742411,
+    "distance": 3490,
+    "elevation_gain": 27,
+    "elevation_loss": 69
+  },
+  {
+    "timestamp": 1686593314360,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 1744361,
+    "distance": 3499,
+    "elevation_gain": 27,
+    "elevation_loss": 69
+  },
+  {
+    "timestamp": 1686593318376,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 1748376,
+    "distance": 3508,
+    "elevation_gain": 27,
+    "elevation_loss": 69
+  },
+  {
+    "timestamp": 1686593322360,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 1752360,
+    "distance": 3516,
+    "elevation_gain": 27,
+    "elevation_loss": 70
+  },
+  {
+    "timestamp": 1686593324352,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 1754352,
+    "distance": 3516,
+    "elevation_gain": 27,
+    "elevation_loss": 70
+  },
+  {
+    "timestamp": 1686593326356,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1756357,
+    "distance": 3524,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593330366,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1760366,
+    "distance": 3528,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593332345,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1762345,
+    "distance": 3532,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593334451,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1764451,
+    "distance": 3537,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593336349,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1766349,
+    "distance": 3542,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593338363,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1768363,
+    "distance": 3545,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593340373,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1770373,
+    "distance": 3552,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593342391,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1772391,
+    "distance": 3552,
+    "elevation_gain": 27,
+    "elevation_loss": 71
+  },
+  {
+    "timestamp": 1686593344371,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1774371,
+    "distance": 3558,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593348365,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1778365,
+    "distance": 3570,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593352369,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1782369,
+    "distance": 3579,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593354360,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1784360,
+    "distance": 3579,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593356359,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1786359,
+    "distance": 3590,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593358401,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1788401,
+    "distance": 3590,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593360366,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1790366,
+    "distance": 3600,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593364368,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1794368,
+    "distance": 3610,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593368360,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1798360,
+    "distance": 3618,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593370360,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1800360,
+    "distance": 3618,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593372352,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1802352,
+    "distance": 3627,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593374412,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1804412,
+    "distance": 3627,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593376363,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1806363,
+    "distance": 3634,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593378362,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1808362,
+    "distance": 3634,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593380359,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1810359,
+    "distance": 3643,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593382389,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1812389,
+    "distance": 3643,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593384360,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1814361,
+    "distance": 3643,
+    "elevation_gain": 27,
+    "elevation_loss": 72
+  },
+  {
+    "timestamp": 1686593386362,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1816362,
+    "distance": 3653,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593388349,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1818349,
+    "distance": 3653,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593390372,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1820372,
+    "distance": 3661,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593392373,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1822373,
+    "distance": 3661,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593394360,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1824361,
+    "distance": 3669,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593398402,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1828402,
+    "distance": 3679,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593400365,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1830365,
+    "distance": 3679,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593402391,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1832391,
+    "distance": 3687,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593404373,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1834373,
+    "distance": 3687,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593406468,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1836468,
+    "distance": 3695,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593408360,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1838360,
+    "distance": 3695,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593410389,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1840389,
+    "distance": 3695,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593412377,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1842378,
+    "distance": 3704,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593416398,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1846398,
+    "distance": 3712,
+    "elevation_gain": 27,
+    "elevation_loss": 73
+  },
+  {
+    "timestamp": 1686593420352,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1850352,
+    "distance": 3721,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593423360,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1853361,
+    "distance": 3721,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593425365,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1855365,
+    "distance": 3730,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593429371,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1859371,
+    "distance": 3739,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593431377,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1861378,
+    "distance": 3739,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593433387,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1863387,
+    "distance": 3748,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593435365,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1865365,
+    "distance": 3748,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593437355,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1867355,
+    "distance": 3756,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593441374,
+    "elevation": 75,
+    "source_type": 0,
+    "duration": 1871374,
+    "distance": 3765,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593445407,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1875407,
+    "distance": 3775,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593449356,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1879357,
+    "distance": 3784,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593451386,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1881386,
+    "distance": 3784,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593453366,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1883366,
+    "distance": 3790,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593455392,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1885392,
+    "distance": 3790,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593457362,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1887362,
+    "distance": 3795,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593459381,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1889381,
+    "distance": 3799,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593461404,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1891404,
+    "distance": 3803,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593464356,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1894357,
+    "distance": 3809,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593466556,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1896556,
+    "distance": 3813,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593468367,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1898367,
+    "distance": 3821,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593470402,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1900402,
+    "distance": 3821,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593472384,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1902384,
+    "distance": 3828,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593474384,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1904384,
+    "distance": 3828,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593476370,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1906370,
+    "distance": 3837,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593480366,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1910366,
+    "distance": 3847,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593484369,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1914369,
+    "distance": 3855,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593488360,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1918361,
+    "distance": 3864,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593492379,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1922379,
+    "distance": 3872,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593496371,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1926371,
+    "distance": 3880,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593500363,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1930363,
+    "distance": 3889,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593502399,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1932399,
+    "distance": 3889,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593504387,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1934387,
+    "distance": 3899,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593506367,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1936367,
+    "distance": 3899,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593508390,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1938390,
+    "distance": 3907,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593510379,
+    "elevation": 76,
+    "source_type": 0,
+    "duration": 1940379,
+    "distance": 3907,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593512364,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1942364,
+    "distance": 3914,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593516359,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1946359,
+    "distance": 3925,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593522363,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1952363,
+    "distance": 3935,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593524385,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1954385,
+    "distance": 3942,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593528374,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1958374,
+    "distance": 3950,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593530374,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1960374,
+    "distance": 3950,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593532364,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1962364,
+    "distance": 3957,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593534402,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1964402,
+    "distance": 3957,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593536373,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1966373,
+    "distance": 3966,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593538412,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1968412,
+    "distance": 3966,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593540371,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1970371,
+    "distance": 3975,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593544356,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1974356,
+    "distance": 3984,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593546376,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1976376,
+    "distance": 3984,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593548369,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1978369,
+    "distance": 3990,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593550373,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1980373,
+    "distance": 3990,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593552363,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1982363,
+    "distance": 3990,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593555393,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1985394,
+    "distance": 4000,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593559382,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1989382,
+    "distance": 4009,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593563377,
+    "elevation": 77,
+    "source_type": 0,
+    "duration": 1993378,
+    "distance": 4018,
+    "elevation_gain": 27,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593567376,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1997377,
+    "distance": 4025,
+    "elevation_gain": 30,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593569376,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 1999376,
+    "distance": 4025,
+    "elevation_gain": 30,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593571386,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 2001386,
+    "distance": 4033,
+    "elevation_gain": 30,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593573380,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 2003380,
+    "distance": 4033,
+    "elevation_gain": 30,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593575382,
+    "elevation": 78,
+    "source_type": 0,
+    "duration": 2005382,
+    "distance": 4041,
+    "elevation_gain": 30,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593579393,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2009394,
+    "distance": 4048,
+    "elevation_gain": 31,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593581368,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2011368,
+    "distance": 4048,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593583367,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2013367,
+    "distance": 4056,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593585370,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2015370,
+    "distance": 4056,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593587368,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2017368,
+    "distance": 4060,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593589384,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2019384,
+    "distance": 4065,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593591386,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2021386,
+    "distance": 4069,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593593379,
+    "elevation": 79,
+    "source_type": 0,
+    "duration": 2023379,
+    "distance": 4074,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593595390,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2025390,
+    "distance": 4078,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593597396,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2027396,
+    "distance": 4086,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593601396,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2031397,
+    "distance": 4094,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593605395,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2035395,
+    "distance": 4102,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593609380,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2039380,
+    "distance": 4112,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593611374,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2041374,
+    "distance": 4112,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593613409,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2043409,
+    "distance": 4112,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593615392,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2045392,
+    "distance": 4122,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593617365,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2047365,
+    "distance": 4122,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593619409,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2049409,
+    "distance": 4129,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593621379,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2051379,
+    "distance": 4129,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593623376,
+    "elevation": 80,
+    "source_type": 0,
+    "duration": 2053376,
+    "distance": 4139,
+    "elevation_gain": 32,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593627386,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2057386,
+    "distance": 4147,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593629369,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2059369,
+    "distance": 4147,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593631487,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2061487,
+    "distance": 4147,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593633365,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2063365,
+    "distance": 4157,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593635376,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2065376,
+    "distance": 4157,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593637383,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2067383,
+    "distance": 4165,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593639374,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2069374,
+    "distance": 4165,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593641404,
+    "elevation": 81,
+    "source_type": 0,
+    "duration": 2071404,
+    "distance": 4174,
+    "elevation_gain": 33,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593645385,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2075385,
+    "distance": 4182,
+    "elevation_gain": 36,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593650370,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2080370,
+    "distance": 4190,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593652384,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2082384,
+    "distance": 4190,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593654380,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2084380,
+    "distance": 4198,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593656388,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2086388,
+    "distance": 4198,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593660399,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2090399,
+    "distance": 4209,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593664376,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2094377,
+    "distance": 4217,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593668383,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2098383,
+    "distance": 4225,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593670448,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2100448,
+    "distance": 4225,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593672387,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2102387,
+    "distance": 4233,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593676384,
+    "elevation": 84,
+    "source_type": 0,
+    "duration": 2106384,
+    "distance": 4242,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593680384,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2110384,
+    "distance": 4252,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593682393,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2112393,
+    "distance": 4252,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593684377,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2114378,
+    "distance": 4252,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593686388,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2116388,
+    "distance": 4261,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593688377,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2118378,
+    "distance": 4261,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593690392,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2120392,
+    "distance": 4269,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593694423,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2124423,
+    "distance": 4277,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593698384,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2128384,
+    "distance": 4286,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593700441,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2130441,
+    "distance": 4286,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593702403,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2132403,
+    "distance": 4286,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593708573,
+    "elevation": 85,
+    "source_type": 0,
+    "duration": 2138573,
+    "distance": 4295,
+    "elevation_gain": 37,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593710393,
+    "elevation": 86,
+    "source_type": 0,
+    "duration": 2140393,
+    "distance": 4305,
+    "elevation_gain": 38,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593712389,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2142389,
+    "distance": 4305,
+    "elevation_gain": 40,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593714385,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2144385,
+    "distance": 4310,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593716381,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2146381,
+    "distance": 4313,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593718399,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2148399,
+    "distance": 4317,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593720375,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2150375,
+    "distance": 4322,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593722419,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2152419,
+    "distance": 4326,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593724391,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2154391,
+    "distance": 4326,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593726383,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2156383,
+    "distance": 4335,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593730396,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2160396,
+    "distance": 4342,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593732392,
+    "elevation": 88,
+    "source_type": 0,
+    "duration": 2162392,
+    "distance": 4342,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593734409,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 2164410,
+    "distance": 4349,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593736376,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 2166376,
+    "distance": 4349,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593738402,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 2168402,
+    "distance": 4356,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593742465,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 2172466,
+    "distance": 4364,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593744379,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 2174379,
+    "distance": 4364,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593746389,
+    "elevation": 89,
+    "source_type": 0,
+    "duration": 2176389,
+    "distance": 4373,
+    "elevation_gain": 41,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593750385,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2180385,
+    "distance": 4381,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593752392,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2182392,
+    "distance": 4381,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593754408,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2184408,
+    "distance": 4381,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593756379,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2186379,
+    "distance": 4391,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593758652,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2188652,
+    "distance": 4391,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593760376,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2190377,
+    "distance": 4391,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593762388,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2192388,
+    "distance": 4401,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593766364,
+    "elevation": 90,
+    "source_type": 0,
+    "duration": 2196364,
+    "distance": 4410,
+    "elevation_gain": 42,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593770389,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 2200389,
+    "distance": 4418,
+    "elevation_gain": 43,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593774409,
+    "elevation": 91,
+    "source_type": 0,
+    "duration": 2204410,
+    "distance": 4426,
+    "elevation_gain": 43,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593778403,
+    "elevation": 94,
+    "source_type": 0,
+    "duration": 2208403,
+    "distance": 4433,
+    "elevation_gain": 46,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593782449,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2212450,
+    "distance": 4442,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593784398,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2214398,
+    "distance": 4442,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593786407,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2216407,
+    "distance": 4450,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593790448,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2220448,
+    "distance": 4457,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593794396,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2224397,
+    "distance": 4465,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593798399,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2228399,
+    "distance": 4472,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593800393,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2230394,
+    "distance": 4472,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593802440,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2232440,
+    "distance": 4482,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593806392,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2236392,
+    "distance": 4490,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593808385,
+    "elevation": 95,
+    "source_type": 0,
+    "duration": 2238385,
+    "distance": 4490,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593810379,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2240379,
+    "distance": 4498,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593812385,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2242385,
+    "distance": 4498,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593814376,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2244376,
+    "distance": 4506,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593816399,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2246399,
+    "distance": 4506,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593818387,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2248387,
+    "distance": 4513,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593822432,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2252432,
+    "distance": 4522,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593826464,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2256464,
+    "distance": 4531,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593830382,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2260382,
+    "distance": 4539,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593834381,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2264381,
+    "distance": 4547,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593838420,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2268420,
+    "distance": 4552,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593840381,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2270381,
+    "distance": 4557,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593842439,
+    "elevation": 96,
+    "source_type": 0,
+    "duration": 2272439,
+    "distance": 4561,
+    "elevation_gain": 48,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593844399,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2274399,
+    "distance": 4565,
+    "elevation_gain": 49,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593846531,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2276531,
+    "distance": 4565,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593848563,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2278563,
+    "distance": 4569,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593850389,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2280389,
+    "distance": 4574,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593852399,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2282399,
+    "distance": 4579,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593854389,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2284389,
+    "distance": 4583,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593856391,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2286391,
+    "distance": 4587,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593858399,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2288399,
+    "distance": 4597,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593860405,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2290405,
+    "distance": 4597,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593862485,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2292485,
+    "distance": 4603,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593864422,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2294422,
+    "distance": 4603,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593868382,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2298382,
+    "distance": 4613,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593872388,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2302388,
+    "distance": 4623,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593874396,
+    "elevation": 97,
+    "source_type": 0,
+    "duration": 2304397,
+    "distance": 4623,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593876390,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2306390,
+    "distance": 4631,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593878403,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2308403,
+    "distance": 4631,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593882392,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2312392,
+    "distance": 4643,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593886441,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2316441,
+    "distance": 4651,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593888399,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2318399,
+    "distance": 4651,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593890398,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2320398,
+    "distance": 4660,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593892421,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2322421,
+    "distance": 4660,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593894398,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2324398,
+    "distance": 4668,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593896396,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2326396,
+    "distance": 4668,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593898382,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2328382,
+    "distance": 4675,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593900398,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2330398,
+    "distance": 4675,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593902423,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2332423,
+    "distance": 4683,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593906440,
+    "elevation": 98,
+    "source_type": 0,
+    "duration": 2336440,
+    "distance": 4692,
+    "elevation_gain": 50,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593910387,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2340387,
+    "distance": 4700,
+    "elevation_gain": 51,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593914393,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2344394,
+    "distance": 4709,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593916408,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2346408,
+    "distance": 4709,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593918400,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2348400,
+    "distance": 4709,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593920416,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2350417,
+    "distance": 4719,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593924416,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2354417,
+    "distance": 4727,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593926393,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2356393,
+    "distance": 4727,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593928440,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2358440,
+    "distance": 4727,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593930391,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2360391,
+    "distance": 4739,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593934380,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2364380,
+    "distance": 4748,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593936409,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2366409,
+    "distance": 4748,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593938412,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2368412,
+    "distance": 4748,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593940405,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2370405,
+    "distance": 4758,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593942402,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2372402,
+    "distance": 4758,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593944400,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2374400,
+    "distance": 4765,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593946401,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2376401,
+    "distance": 4765,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593948393,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2378393,
+    "distance": 4774,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593950395,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2380395,
+    "distance": 4774,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593952379,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2382379,
+    "distance": 4782,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593956416,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2386416,
+    "distance": 4791,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593958404,
+    "elevation": 99,
+    "source_type": 0,
+    "duration": 2388404,
+    "distance": 4791,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593960412,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2390413,
+    "distance": 4798,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593962382,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2392382,
+    "distance": 4798,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593964385,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2394385,
+    "distance": 4805,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593966470,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2396470,
+    "distance": 4805,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593968382,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2398382,
+    "distance": 4808,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593970393,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2400393,
+    "distance": 4814,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593972430,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2402430,
+    "distance": 4819,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593974392,
+    "elevation": 100,
+    "source_type": 0,
+    "duration": 2404392,
+    "distance": 4823,
+    "elevation_gain": 52,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593976395,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2406395,
+    "distance": 4827,
+    "elevation_gain": 54,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593978443,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2408443,
+    "distance": 4835,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593982395,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2412395,
+    "distance": 4843,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593984405,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2414405,
+    "distance": 4843,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593986408,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2416408,
+    "distance": 4851,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593988452,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2418452,
+    "distance": 4851,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593990393,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2420394,
+    "distance": 4860,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593992401,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2422401,
+    "distance": 4860,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593994381,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2424381,
+    "distance": 4867,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686593998404,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2428404,
+    "distance": 4874,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594000387,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2430387,
+    "distance": 4874,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594002405,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2432405,
+    "distance": 4883,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594004457,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2434457,
+    "distance": 4883,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594006383,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2436383,
+    "distance": 4890,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594010402,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2440402,
+    "distance": 4902,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594014369,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2444369,
+    "distance": 4910,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594016389,
+    "elevation": 102,
+    "source_type": 0,
+    "duration": 2446389,
+    "distance": 4910,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594018389,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2448389,
+    "distance": 4918,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594020396,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2450397,
+    "distance": 4918,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594022390,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2452390,
+    "distance": 4924,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594024379,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2454379,
+    "distance": 4924,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594026395,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2456395,
+    "distance": 4931,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594028386,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2458386,
+    "distance": 4931,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594030481,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2460482,
+    "distance": 4938,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594032415,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2462415,
+    "distance": 4938,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594034403,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2464403,
+    "distance": 4945,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594036401,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2466401,
+    "distance": 4945,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594038401,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2468401,
+    "distance": 4953,
+    "elevation_gain": 55,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594042411,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2472411,
+    "distance": 4963,
+    "elevation_gain": 57,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594044433,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2474434,
+    "distance": 4963,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594046393,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2476393,
+    "distance": 4969,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594048405,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2478405,
+    "distance": 4969,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594050439,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2480439,
+    "distance": 4977,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594054507,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2484507,
+    "distance": 4985,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594058396,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2488397,
+    "distance": 4994,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594060396,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2490397,
+    "distance": 4994,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594062400,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2492400,
+    "distance": 5002,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594064400,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2494400,
+    "distance": 5002,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594066414,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2496414,
+    "distance": 5011,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594071414,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2501414,
+    "distance": 5021,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594073392,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2503392,
+    "distance": 5021,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594077428,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2507428,
+    "distance": 5031,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594079399,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2509399,
+    "distance": 5031,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594081392,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2511392,
+    "distance": 5041,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594083399,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2513399,
+    "distance": 5041,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594085412,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2515412,
+    "distance": 5049,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594089396,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2519397,
+    "distance": 5049,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594091395,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2521395,
+    "distance": 5057,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594093426,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2523426,
+    "distance": 5057,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594095408,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2525408,
+    "distance": 5061,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594097387,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2527387,
+    "distance": 5065,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594099406,
+    "elevation": 105,
+    "source_type": 0,
+    "duration": 2529406,
+    "distance": 5070,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594101405,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2531405,
+    "distance": 5074,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594103393,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2533393,
+    "distance": 5079,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594105448,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2535448,
+    "distance": 5088,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594107391,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2537391,
+    "distance": 5088,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594109427,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2539427,
+    "distance": 5096,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594113409,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2543410,
+    "distance": 5103,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594117437,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2547437,
+    "distance": 5112,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594121388,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2551388,
+    "distance": 5119,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594125405,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2555405,
+    "distance": 5129,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594127392,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2557392,
+    "distance": 5129,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594129449,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2559449,
+    "distance": 5129,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594131414,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2561414,
+    "distance": 5140,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594133459,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2563459,
+    "distance": 5140,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594135416,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2565416,
+    "distance": 5140,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594137390,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2567390,
+    "distance": 5148,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594141412,
+    "elevation": 104,
+    "source_type": 0,
+    "duration": 2571413,
+    "distance": 5156,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594145405,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2575405,
+    "distance": 5165,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594149429,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2579429,
+    "distance": 5177,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594153407,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2583407,
+    "distance": 5177,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594155412,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2585412,
+    "distance": 5187,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594159401,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2589401,
+    "distance": 5196,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  },
+  {
+    "timestamp": 1686594163403,
+    "elevation": 103,
+    "source_type": 0,
+    "duration": 2593403,
+    "distance": 5205,
+    "elevation_gain": 58,
+    "elevation_loss": 74
+  }
+]
