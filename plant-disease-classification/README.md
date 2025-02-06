@@ -3,14 +3,6 @@
 ## Project Overview
 This project focuses on **automating plant disease classification** using **Machine Learning and Deep Learning** techniques. The goal is to create an efficient diagnostic system that enables **early detection** of plant diseases, helping prevent crop damage and promoting sustainable agriculture.
 
-## Project Structure
-- **`dataset/`** - Contains plant disease images sourced from **Kaggle's Plant Pathogen Dataset**.
-- **`models/`** - Includes trained ML and DL models.
-- **`notebooks/`** - Jupyter notebooks with experiments and training results.
-- **`src/`** - Python scripts for data preprocessing, model training, and evaluation.
-- **`results/`** - Performance metrics and analysis of different models.
-- **`README.md`** - Project documentation.
-
 ## Methodology
 ### 1. Data Collection
 - **Source**: Kaggle's **Plant Pathogen Dataset**.
