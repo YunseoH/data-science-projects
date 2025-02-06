@@ -1,4 +1,4 @@
-# Sportipy - Running Performance Analysis
+# Sportipy - Running Performance Analysis 🏃🏻‍♂️
 
 ## Project Overview
 Sportipy is a Python-based project that analyzes running performance data collected from **Runtastic** and **TicExercise** applications. The project focuses on **data processing, visualization, clustering, and predictive modeling** to gain insights into running patterns.
