@@ -1,0 +1,884 @@
+[
+  {
+    "timestamp": 1624705426252,
+    "heart_rate": 113,
+    "signal_strength": 0,
+    "duration": 1434,
+    "distance": 0
+  },
+  {
+    "timestamp": 1624705431928,
+    "heart_rate": 113,
+    "signal_strength": 0,
+    "duration": 6930,
+    "distance": 6
+  },
+  {
+    "timestamp": 1624705437607,
+    "heart_rate": 113,
+    "signal_strength": 0,
+    "duration": 12617,
+    "distance": 19
+  },
+  {
+    "timestamp": 1624705443292,
+    "heart_rate": 114,
+    "signal_strength": 0,
+    "duration": 18294,
+    "distance": 34
+  },
+  {
+    "timestamp": 1624705448982,
+    "heart_rate": 117,
+    "signal_strength": 0,
+    "duration": 23987,
+    "distance": 55
+  },
+  {
+    "timestamp": 1624705454649,
+    "heart_rate": 124,
+    "signal_strength": 0,
+    "duration": 29652,
+    "distance": 71
+  },
+  {
+    "timestamp": 1624705460330,
+    "heart_rate": 133,
+    "signal_strength": 0,
+    "duration": 35331,
+    "distance": 82
+  },
+  {
+    "timestamp": 1624705466010,
+    "heart_rate": 134,
+    "signal_strength": 0,
+    "duration": 41011,
+    "distance": 102
+  },
+  {
+    "timestamp": 1624705471700,
+    "heart_rate": 141,
+    "signal_strength": 0,
+    "duration": 46702,
+    "distance": 116
+  },
+  {
+    "timestamp": 1624705477380,
+    "heart_rate": 144,
+    "signal_strength": 0,
+    "duration": 52382,
+    "distance": 139
+  },
+  {
+    "timestamp": 1624705483089,
+    "heart_rate": 146,
+    "signal_strength": 0,
+    "duration": 58091,
+    "distance": 155
+  },
+  {
+    "timestamp": 1624705488771,
+    "heart_rate": 149,
+    "signal_strength": 0,
+    "duration": 63775,
+    "distance": 174
+  },
+  {
+    "timestamp": 1624705494472,
+    "heart_rate": 150,
+    "signal_strength": 0,
+    "duration": 69473,
+    "distance": 183
+  },
+  {
+    "timestamp": 1624705500139,
+    "heart_rate": 153,
+    "signal_strength": 0,
+    "duration": 75141,
+    "distance": 208
+  },
+  {
+    "timestamp": 1624705505844,
+    "heart_rate": 154,
+    "signal_strength": 0,
+    "duration": 80909,
+    "distance": 218
+  },
+  {
+    "timestamp": 1624705511539,
+    "heart_rate": 156,
+    "signal_strength": 0,
+    "duration": 86540,
+    "distance": 234
+  },
+  {
+    "timestamp": 1624705517247,
+    "heart_rate": 157,
+    "signal_strength": 0,
+    "duration": 92250,
+    "distance": 247
+  },
+  {
+    "timestamp": 1624705522929,
+    "heart_rate": 159,
+    "signal_strength": 0,
+    "duration": 97931,
+    "distance": 257
+  },
+  {
+    "timestamp": 1624705528633,
+    "heart_rate": 160,
+    "signal_strength": 0,
+    "duration": 103647,
+    "distance": 275
+  },
+  {
+    "timestamp": 1624705534320,
+    "heart_rate": 162,
+    "signal_strength": 0,
+    "duration": 109324,
+    "distance": 297
+  },
+  {
+    "timestamp": 1624705540015,
+    "heart_rate": 163,
+    "signal_strength": 0,
+    "duration": 115017,
+    "distance": 306
+  },
+  {
+    "timestamp": 1624705545697,
+    "heart_rate": 164,
+    "signal_strength": 0,
+    "duration": 120699,
+    "distance": 326
+  },
+  {
+    "timestamp": 1624705551359,
+    "heart_rate": 168,
+    "signal_strength": 0,
+    "duration": 126360,
+    "distance": 333
+  },
+  {
+    "timestamp": 1624705557044,
+    "heart_rate": 168,
+    "signal_strength": 0,
+    "duration": 132047,
+    "distance": 349
+  },
+  {
+    "timestamp": 1624705562718,
+    "heart_rate": 167,
+    "signal_strength": 0,
+    "duration": 137720,
+    "distance": 372
+  },
+  {
+    "timestamp": 1624705568396,
+    "heart_rate": 170,
+    "signal_strength": 0,
+    "duration": 143398,
+    "distance": 392
+  },
+  {
+    "timestamp": 1624705574080,
+    "heart_rate": 170,
+    "signal_strength": 0,
+    "duration": 149084,
+    "distance": 409
+  },
+  {
+    "timestamp": 1624705580688,
+    "heart_rate": 169,
+    "signal_strength": 0,
+    "duration": 155697,
+    "distance": 420
+  },
+  {
+    "timestamp": 1624705586374,
+    "heart_rate": 170,
+    "signal_strength": 0,
+    "duration": 161375,
+    "distance": 436
+  },
+  {
+    "timestamp": 1624705592064,
+    "heart_rate": 172,
+    "signal_strength": 0,
+    "duration": 167067,
+    "distance": 458
+  },
+  {
+    "timestamp": 1624705597739,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 172741,
+    "distance": 476
+  },
+  {
+    "timestamp": 1624705603418,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 178419,
+    "distance": 484
+  },
+  {
+    "timestamp": 1624705609100,
+    "heart_rate": 174,
+    "signal_strength": 0,
+    "duration": 184109,
+    "distance": 504
+  },
+  {
+    "timestamp": 1624705614778,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 189779,
+    "distance": 511
+  },
+  {
+    "timestamp": 1624705620479,
+    "heart_rate": 174,
+    "signal_strength": 0,
+    "duration": 195494,
+    "distance": 518
+  },
+  {
+    "timestamp": 1624705626153,
+    "heart_rate": 166,
+    "signal_strength": 0,
+    "duration": 201159,
+    "distance": 518
+  },
+  {
+    "timestamp": 1624705631836,
+    "heart_rate": 162,
+    "signal_strength": 0,
+    "duration": 206854,
+    "distance": 518
+  },
+  {
+    "timestamp": 1624705637532,
+    "heart_rate": 159,
+    "signal_strength": 0,
+    "duration": 212537,
+    "distance": 518
+  },
+  {
+    "timestamp": 1624705643231,
+    "heart_rate": 158,
+    "signal_strength": 0,
+    "duration": 218232,
+    "distance": 518
+  },
+  {
+    "timestamp": 1624705648961,
+    "heart_rate": 156,
+    "signal_strength": 0,
+    "duration": 223963,
+    "distance": 518
+  },
+  {
+    "timestamp": 1624705654635,
+    "heart_rate": 153,
+    "signal_strength": 0,
+    "duration": 229637,
+    "distance": 528
+  },
+  {
+    "timestamp": 1624705660334,
+    "heart_rate": 153,
+    "signal_strength": 0,
+    "duration": 235336,
+    "distance": 541
+  },
+  {
+    "timestamp": 1624705666037,
+    "heart_rate": 157,
+    "signal_strength": 0,
+    "duration": 241038,
+    "distance": 556
+  },
+  {
+    "timestamp": 1624705671771,
+    "heart_rate": 160,
+    "signal_strength": 0,
+    "duration": 246773,
+    "distance": 573
+  },
+  {
+    "timestamp": 1624705677439,
+    "heart_rate": 164,
+    "signal_strength": 0,
+    "duration": 252440,
+    "distance": 595
+  },
+  {
+    "timestamp": 1624705683115,
+    "heart_rate": 163,
+    "signal_strength": 0,
+    "duration": 258118,
+    "distance": 601
+  },
+  {
+    "timestamp": 1624705688795,
+    "heart_rate": 163,
+    "signal_strength": 0,
+    "duration": 263798,
+    "distance": 621
+  },
+  {
+    "timestamp": 1624705694467,
+    "heart_rate": 169,
+    "signal_strength": 0,
+    "duration": 269468,
+    "distance": 645
+  },
+  {
+    "timestamp": 1624705700148,
+    "heart_rate": 172,
+    "signal_strength": 0,
+    "duration": 275150,
+    "distance": 657
+  },
+  {
+    "timestamp": 1624705705829,
+    "heart_rate": 171,
+    "signal_strength": 0,
+    "duration": 280848,
+    "distance": 673
+  },
+  {
+    "timestamp": 1624705712460,
+    "heart_rate": 172,
+    "signal_strength": 0,
+    "duration": 287461,
+    "distance": 691
+  },
+  {
+    "timestamp": 1624705718144,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 293146,
+    "distance": 701
+  },
+  {
+    "timestamp": 1624705723828,
+    "heart_rate": 174,
+    "signal_strength": 0,
+    "duration": 298829,
+    "distance": 709
+  },
+  {
+    "timestamp": 1624705729504,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 304506,
+    "distance": 729
+  },
+  {
+    "timestamp": 1624705735199,
+    "heart_rate": 176,
+    "signal_strength": 0,
+    "duration": 310200,
+    "distance": 746
+  },
+  {
+    "timestamp": 1624705740885,
+    "heart_rate": 177,
+    "signal_strength": 0,
+    "duration": 315888,
+    "distance": 760
+  },
+  {
+    "timestamp": 1624705746564,
+    "heart_rate": 178,
+    "signal_strength": 0,
+    "duration": 321566,
+    "distance": 768
+  },
+  {
+    "timestamp": 1624705752247,
+    "heart_rate": 179,
+    "signal_strength": 0,
+    "duration": 327249,
+    "distance": 787
+  },
+  {
+    "timestamp": 1624705757967,
+    "heart_rate": 178,
+    "signal_strength": 0,
+    "duration": 332968,
+    "distance": 798
+  },
+  {
+    "timestamp": 1624705763655,
+    "heart_rate": 179,
+    "signal_strength": 0,
+    "duration": 338657,
+    "distance": 821
+  },
+  {
+    "timestamp": 1624705769353,
+    "heart_rate": 179,
+    "signal_strength": 0,
+    "duration": 344357,
+    "distance": 832
+  },
+  {
+    "timestamp": 1624705775067,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 350069,
+    "distance": 842
+  },
+  {
+    "timestamp": 1624705780795,
+    "heart_rate": 179,
+    "signal_strength": 0,
+    "duration": 355806,
+    "distance": 860
+  },
+  {
+    "timestamp": 1624705786474,
+    "heart_rate": 179,
+    "signal_strength": 0,
+    "duration": 361477,
+    "distance": 873
+  },
+  {
+    "timestamp": 1624705792180,
+    "heart_rate": 179,
+    "signal_strength": 0,
+    "duration": 367181,
+    "distance": 890
+  },
+  {
+    "timestamp": 1624705797889,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 372892,
+    "distance": 908
+  },
+  {
+    "timestamp": 1624705803572,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 378574,
+    "distance": 908
+  },
+  {
+    "timestamp": 1624705809245,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 384246,
+    "distance": 917
+  },
+  {
+    "timestamp": 1624705814928,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 389932,
+    "distance": 925
+  },
+  {
+    "timestamp": 1624705820609,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 395628,
+    "distance": 935
+  },
+  {
+    "timestamp": 1624705826289,
+    "heart_rate": 181,
+    "signal_strength": 0,
+    "duration": 401291,
+    "distance": 946
+  },
+  {
+    "timestamp": 1624705831975,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 406977,
+    "distance": 980
+  },
+  {
+    "timestamp": 1624705837661,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 412663,
+    "distance": 1004
+  },
+  {
+    "timestamp": 1624705843339,
+    "heart_rate": 181,
+    "signal_strength": 0,
+    "duration": 418339,
+    "distance": 1020
+  },
+  {
+    "timestamp": 1624705849015,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 424016,
+    "distance": 1035
+  },
+  {
+    "timestamp": 1624705854717,
+    "heart_rate": 180,
+    "signal_strength": 0,
+    "duration": 429720,
+    "distance": 1057
+  },
+  {
+    "timestamp": 1624705860364,
+    "heart_rate": 181,
+    "signal_strength": 0,
+    "duration": 435365,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705866054,
+    "heart_rate": 175,
+    "signal_strength": 0,
+    "duration": 441056,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705871720,
+    "heart_rate": 172,
+    "signal_strength": 0,
+    "duration": 446721,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705877416,
+    "heart_rate": 171,
+    "signal_strength": 0,
+    "duration": 452418,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705883127,
+    "heart_rate": 169,
+    "signal_strength": 0,
+    "duration": 458129,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705888829,
+    "heart_rate": 168,
+    "signal_strength": 0,
+    "duration": 463830,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705894515,
+    "heart_rate": 166,
+    "signal_strength": 0,
+    "duration": 469518,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705900227,
+    "heart_rate": 162,
+    "signal_strength": 0,
+    "duration": 475232,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705905935,
+    "heart_rate": 160,
+    "signal_strength": 0,
+    "duration": 480936,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705911626,
+    "heart_rate": 159,
+    "signal_strength": 0,
+    "duration": 486628,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705917324,
+    "heart_rate": 158,
+    "signal_strength": 0,
+    "duration": 492325,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705923032,
+    "heart_rate": 156,
+    "signal_strength": 0,
+    "duration": 498034,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705928728,
+    "heart_rate": 155,
+    "signal_strength": 0,
+    "duration": 503737,
+    "distance": 1068
+  },
+  {
+    "timestamp": 1624705934405,
+    "heart_rate": 154,
+    "signal_strength": 0,
+    "duration": 509409,
+    "distance": 1076
+  },
+  {
+    "timestamp": 1624705940094,
+    "heart_rate": 154,
+    "signal_strength": 0,
+    "duration": 515099,
+    "distance": 1093
+  },
+  {
+    "timestamp": 1624705945764,
+    "heart_rate": 157,
+    "signal_strength": 0,
+    "duration": 520766,
+    "distance": 1110
+  },
+  {
+    "timestamp": 1624705951449,
+    "heart_rate": 160,
+    "signal_strength": 0,
+    "duration": 526451,
+    "distance": 1132
+  },
+  {
+    "timestamp": 1624705957134,
+    "heart_rate": 162,
+    "signal_strength": 0,
+    "duration": 532135,
+    "distance": 1144
+  },
+  {
+    "timestamp": 1624705962820,
+    "heart_rate": 164,
+    "signal_strength": 0,
+    "duration": 537823,
+    "distance": 1165
+  },
+  {
+    "timestamp": 1624705968501,
+    "heart_rate": 167,
+    "signal_strength": 0,
+    "duration": 543509,
+    "distance": 1177
+  },
+  {
+    "timestamp": 1624705974175,
+    "heart_rate": 170,
+    "signal_strength": 0,
+    "duration": 549177,
+    "distance": 1186
+  },
+  {
+    "timestamp": 1624705979870,
+    "heart_rate": 171,
+    "signal_strength": 0,
+    "duration": 554877,
+    "distance": 1205
+  },
+  {
+    "timestamp": 1624705985557,
+    "heart_rate": 172,
+    "signal_strength": 0,
+    "duration": 560558,
+    "distance": 1224
+  },
+  {
+    "timestamp": 1624705991240,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 566241,
+    "distance": 1237
+  },
+  {
+    "timestamp": 1624705996918,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 571919,
+    "distance": 1248
+  },
+  {
+    "timestamp": 1624706002601,
+    "heart_rate": 173,
+    "signal_strength": 0,
+    "duration": 577604,
+    "distance": 1269
+  },
+  {
+    "timestamp": 1624706008303,
+    "heart_rate": 174,
+    "signal_strength": 0,
+    "duration": 583306,
+    "distance": 1293
+  },
+  {
+    "timestamp": 1624706013981,
+    "heart_rate": 174,
+    "signal_strength": 0,
+    "duration": 588982,
+    "distance": 1305
+  },
+  {
+    "timestamp": 1624706019653,
+    "heart_rate": 177,
+    "signal_strength": 0,
+    "duration": 594662,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706025326,
+    "heart_rate": 175,
+    "signal_strength": 0,
+    "duration": 600327,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706031010,
+    "heart_rate": 174,
+    "signal_strength": 0,
+    "duration": 606012,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706036687,
+    "heart_rate": 172,
+    "signal_strength": 0,
+    "duration": 611689,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706042355,
+    "heart_rate": 170,
+    "signal_strength": 0,
+    "duration": 617357,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706048038,
+    "heart_rate": 168,
+    "signal_strength": 0,
+    "duration": 623039,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706053720,
+    "heart_rate": 167,
+    "signal_strength": 0,
+    "duration": 628721,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706059390,
+    "heart_rate": 164,
+    "signal_strength": 0,
+    "duration": 634390,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706065074,
+    "heart_rate": 160,
+    "signal_strength": 0,
+    "duration": 640076,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706070764,
+    "heart_rate": 157,
+    "signal_strength": 0,
+    "duration": 645768,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706076468,
+    "heart_rate": 153,
+    "signal_strength": 0,
+    "duration": 651470,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706082187,
+    "heart_rate": 149,
+    "signal_strength": 0,
+    "duration": 657188,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706087868,
+    "heart_rate": 146,
+    "signal_strength": 0,
+    "duration": 662869,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706093569,
+    "heart_rate": 143,
+    "signal_strength": 0,
+    "duration": 668570,
+    "distance": 1315
+  },
+  {
+    "timestamp": 1624706099263,
+    "heart_rate": 144,
+    "signal_strength": 0,
+    "duration": 674265,
+    "distance": 1344
+  },
+  {
+    "timestamp": 1624706104983,
+    "heart_rate": 145,
+    "signal_strength": 0,
+    "duration": 679985,
+    "distance": 1353
+  },
+  {
+    "timestamp": 1624706110656,
+    "heart_rate": 150,
+    "signal_strength": 0,
+    "duration": 685658,
+    "distance": 1373
+  },
+  {
+    "timestamp": 1624706116350,
+    "heart_rate": 154,
+    "signal_strength": 0,
+    "duration": 691358,
+    "distance": 1380
+  },
+  {
+    "timestamp": 1624706122028,
+    "heart_rate": 158,
+    "signal_strength": 0,
+    "duration": 697029,
+    "distance": 1396
+  },
+  {
+    "timestamp": 1624706127710,
+    "heart_rate": 162,
+    "signal_strength": 0,
+    "duration": 702727,
+    "distance": 1403
+  },
+  {
+    "timestamp": 1624706133384,
+    "heart_rate": 164,
+    "signal_strength": 0,
+    "duration": 708385,
+    "distance": 1422
+  },
+  {
+    "timestamp": 1624706139077,
+    "heart_rate": 167,
+    "signal_strength": 0,
+    "duration": 714078,
+    "distance": 1429
+  }
+]
