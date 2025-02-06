@@ -1,10 +1,10 @@
-# Welcome to My GitHub Portfolio  
+# Data Science Portfolio  
 
-Hi, I'm Yunseo Heo, a data science major with experience in machine learning, data visualization, and statistical analysis. This repository showcases projects from my undergraduate studies and internships, covering topics such as:  
+Welcome to my GitHub portfolio. I am a data science major with experience in machine learning, statistical analysis, and data visualization. This repository showcases projects from my undergraduate studies and internships, covering a range of topics, including:  
 
 - **Predictive Modeling** – Regression, classification, and time series forecasting  
 - **Data Visualization** – Interactive dashboards and visual analytics  
-- **Optimization & Algorithms** – Game theory, decision-making models, and efficiency analysis  
-- **Big Data & Cloud** – Working with large datasets and cloud computing tools  
+- **Optimization & Algorithms** – Game theory applications, decision models, and efficiency analysis  
+- **Big Data & Cloud Computing** – Handling large datasets and utilizing cloud-based solutions  
 
-Each project includes a brief description, dataset source (if applicable), and key takeaways. Feel free to explore!
+Each project includes a brief overview, dataset source (if applicable), and key insights. Feel free to explore the repositories, and do not hesitate to reach out for discussions or collaborations.  
