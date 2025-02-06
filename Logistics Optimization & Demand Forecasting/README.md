@@ -1,4 +1,4 @@
-# Logistics Optimization & Demand Forecasting
+# Logistics Optimization & Demand Forecasting 📦
 
 This project was conducted during my **internship at LOGISALL**. The goal was to optimize logistics center locations and forecast demand using **machine learning and data analysis techniques** to reduce transportation costs, improve efficiency, and predict future demand for effective inventory management.
 
