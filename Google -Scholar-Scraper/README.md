@@ -47,7 +47,7 @@ graph = db.get_citation_graph()
 nx.draw(graph, node_size=100, with_labels=True)
 ```
 
-## 🛠 Running Tests
+## Running Tests
 Run the full test suite using:
 ```sh
 tox
