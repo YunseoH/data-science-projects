@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script type="text/javascript" src="d3.js"></script>
+    <style>
+      body {
+        margin: 0;
+        font-family: sans-serif;
+        color: #2b3e58;
+        background-color: #f4f7fc;
+        font-size: 16px;
+        line-height: 1.2;
+        accent-color: #2b3e58;
+      }
+
+      text {
+        font-family: sans-serif;
+        font-size: 14px;
+        fill: currentColor;
+      }
+
+      .container {
+        width: 1200px;
+        margin: 32px auto;
+      }
+
+      h1 {
+        font-size: 48px;
+        margin: 0;
+      }
+
+      .sticky {
+        position: sticky;
+        top: 0;
+        padding: 16px 0;
+        display: flex;
+        align-items: center;
+        gap: 48px;
+        background-color: #f4f7fc;
+        z-index: 1;
+      }
+
+      fieldset {
+        border: 1px solid #ebeff4;
+        border-radius: 4px;
+      }
+
+      legend {
+        font-weight: bold;
+      }
+
+      .card {
+        background-color: #fff;
+        border-radius: 4px;
+        padding: 24px;
+        margin: 32px 0;
+        box-shadow: 0 2px 4px #ebeff4;
+        position: relative;
+      }
+
+      .title {
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .axis .domain {
+        display: none;
+      }
+
+      .country:hover,
+      .country.highlighted {
+        stroke: #ff8baa;
+        stroke-width: 2px;
+      }
+
+      .footer {
+        column-count: 2;
+        column-gap: 48px;
+        font-size: 12px;
+      }
+
+      #tooltip {
+        position: absolute;
+        pointer-events: none;
+        background-color: #fff;
+        padding: 8px;
+        box-shadow: 0 2px 4px #ebeff4;
+        border: 1px solid #ebeff4;
+        border-radius: 4px;
+      }
+
+      #tooltip.hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Alcohol Consumption</h1>
+      <p>
+        Which country consumes the most alcohol? What are the health impacts?
+      </p>
+      <div class="sticky">
+        <fieldset>
+          <legend>Type of alcoholic beverage</legend>
+          <label>
+            <input type="radio" name="type" value="beer" checked /> Beer
+          </label>
+          <label> <input type="radio" name="type" value="wine" /> Wine </label>
+          <label>
+            <input type="radio" name="type" value="spirits" /> Spirits
+          </label>
+        </fieldset>
+        <div id="colorLegend"></div>
+      </div>
+      <div class="card">
+        <div id="choroplethChart"></div>
+      </div>
+      <div class="card">
+        <div id="barChart"></div>
+      </div>
+      <div class="card">
+        <div id="scatterChart"></div>
+      </div>
+      <div class="footer">
+        <p>
+          Data source: World Health Organization - Global Health Observatory
+          (2024)
+        </p>
+        <p>
+          Recorded alcohol per capita (APC) is defined as the recorded amount of
+          alcohol consumed per capita (15+ years) over a calendar year in a
+          country, in litres of pure alcohol. The indicator only takes into
+          account the consumption which is recorded from production, import,
+          export, and sales data often via taxation. Numerator: The amount of
+          recorded alcohol consumed per capita (15+ years) during a calendar
+          year, in litres of pure alcohol. Denominator: Midyear resident
+          population (15+ years) for the same calendar year, UN World Population
+          Prospects, medium variant.
+        </p>
+        <p>
+          The alcohol-attributable fraction (AAF) denotes the proportion of a
+          health outcome which is caused by alcohol (i.e. that proportion which
+          would disappear if alcohol consumption was removed).
+        </p>
+      </div>
+      <div id="tooltip" class="hidden"></div>
+    </div>
+
+    <script src="color-legend.js"></script>
+    <script src="choropleth-chart.js"></script>
+    <script src="bar-chart.js"></script>
+    <script src="scatter-chart.js"></script>
+    <script src="alcohol-consumption.js"></script>
+  </body>
+</html>
