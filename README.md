@@ -3,7 +3,6 @@
 Welcome to my GitHub portfolio. I am a data science major with experience in machine learning, statistical analysis, and data visualization. This repository showcases projects from my undergraduate studies and internships, covering a range of topics, including:  
 
 - **Predictive Modeling** – Regression, classification, and time series forecasting  
-- **Data Visualization** – Interactive dashboards and visual analytics  
 - **Optimization & Algorithms** – Game theory applications, decision models, and efficiency analysis  
 - **Big Data & Cloud Computing** – Handling large datasets and utilizing cloud-based solutions
 - **Data Visualization** – Interactive dashboards, visual analytics, and D3.js-based visualizations
