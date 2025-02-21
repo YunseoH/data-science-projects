@@ -12,7 +12,7 @@ The project includes:
 
 ## Project Structure
 - **Documentation.pdf** - A documentation of the database and sample queries that can be executed.
-- **SQL/** - Contains all SQL scripts used in the project.
+- **sql/** - Contains all SQL scripts used in the project.
   - `ex2.sql` - SQL script for creating tables (Exercise 2).
   - `ex3.sql` - SQL script for inserting data (Exercise 3).
   - `ex5.sql` - SQL script for running queries (Exercise 5).
