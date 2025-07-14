@@ -5,7 +5,7 @@ This repository serves as my personal portfolio, showcasing selected projects fr
 
 ---
 
-## 📁 Project Summary
+## Project Summary
 
 | Project                          | Stack             | Key Techniques                         | Outcome / Impact                           |
 |----------------------------------|-------------------|----------------------------------------|--------------------------------------------|
