@@ -41,7 +41,7 @@ Build lightweight models to predict short-term vendor-specific demand, enabling 
 - Used **ARIMA & Prophet models** on vendor time series data.
 - Improved forecast accuracy by ~20% vs. prior naive estimates.
 
-### 📊 Data Schema (Quantity)
+### Data Schema (Quantity)
 |     Column    | Description |
 |---------------|--------------------------|
 | `date`        | Year/Month of order      |
