@@ -1,11 +1,44 @@
-# Data Science Portfolio  
+# Data Science Portfolio
 
-Welcome to my GitHub portfolio. I am a data science major with experience in machine learning, statistical analysis, and data visualization. This repository showcases projects from my undergraduate studies and internships, covering a range of topics, including:  
+Hi! I’m Yunseo, a recent graduate in Data Science with hands-on experience in clustering, forecasting, regression modeling, database design, and interactive visualization.  
+This repository serves as my personal portfolio, showcasing selected projects from my undergraduate studies and internships where I applied data-driven techniques to solve real-world problems.
 
-- **Predictive Modeling** – Regression, classification, and time series forecasting  
-- **Optimization & Algorithms** – Game theory applications, decision models, and efficiency analysis  
-- **Big Data & Cloud Computing** – Handling large datasets and utilizing cloud-based solutions
-- **Data Visualization** – Interactive dashboards, visual analytics, and D3.js-based visualizations
-- **Database Management & SQL** – Designing relational databases, writing complex queries, and implementing data modification operations
+---
 
-Each project includes a brief overview, dataset source (if applicable), and key insights. Feel free to explore the repositories, and do not hesitate to reach out for discussions or collaborations.  
+## Core Projects
+
+### Logistics Optimization & Demand Forecasting 📦 
+Conducted during an internship at LOGISALL (Seoul), this project optimized warehouse locations by clustering 32,000+ GPS data points, achieving ~15% projected reduction in transportation costs.  
+Developed short-term demand forecasting models using Prophet & ARIMA that improved prediction accuracy by ~20%, enabling more effective inventory management.
+
+### MLB Player Salary Prediction ⚾ 
+Predicted MLB player salaries using Ridge and Lasso regression on performance metrics from Fangraphs and Statcast, explaining ~18.5% variance for batters and ~36.7% for pitchers.  
+Included log transformation to address heteroscedasticity and enforced MLB minimum salary rules for realistic projections.
+
+### Sportipy – Running Performance Analysis 🏃
+Processed running datasets from Runtastic and TicExercise to analyze workout patterns through data cleaning, visualization, and clustering of GPS coordinates.  
+Built Python functions to visualize distance trends, speed distributions, run start times, and created heatmaps of running itineraries.
+
+---
+
+## Additional Projects
+
+- **SQL-SMILES-Database-Management-System**  
+  Designed and implemented a relational database schema in MySQL Workbench, including indexing, constraints, complex queries,     and automated data loading with Python.
+
+- **Google-Scholar-Scraper**  
+  Developed a Python package to scrape, store, and analyze author & publication data from Google Scholar, featuring database caching, H-Index computation, and citation graph visualization.
+
+- **Alcohol-Consumption-Viz**  
+  Built an interactive D3.js dashboard to explore global alcohol consumption, with choropleth maps, bar charts, and scatter plots examining geographic patterns, health impacts, and population effects.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages & Tools:** Python, R, SQL, Git
+- **Libraries & Frameworks:** scikit-learn, pandas, matplotlib, seaborn, Prophet, glmnet, caret, BeautifulSoup, D3.js, MySQL
+
+---
+
+Please feel free to explore each project folder for detailed READMEs, reports, and code notebooks.  
