@@ -14,7 +14,7 @@ This project involves the **design, implementation, and querying of a relational
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 ├── Documentation.pdf # Describes schema & sample query results
 ├── sql/ # All SQL scripts
