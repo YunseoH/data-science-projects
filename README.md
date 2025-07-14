@@ -5,6 +5,19 @@ This repository serves as my personal portfolio, showcasing selected projects fr
 
 ---
 
+## 📁 Project Summary
+
+| Project                          | Stack             | Key Techniques                         | Outcome / Impact                           |
+|----------------------------------|-------------------|----------------------------------------|--------------------------------------------|
+| Alcohol Consumption Viz        | D3.js, JS, Python | Interactive Visualization              | Global dashboard with map, bar, scatter    |
+| Google Scholar Scraper       | Python, SQLite    | Web Scraping, H-Index, Citation Graphs | Built full pipeline & reusable package     |
+| Logistics Optimization & Demand Forecasting  | Python, OSMnx, Prophet, ARIMA | Clustering (K-Means), Time Series Forecasting | ~15% projected cost reduction, ~20% improved forecast accuracy |
+| MLB Player Salary Prediction    | R (glmnet, caret) | Ridge & Lasso Regression, Feature Selection | R²: 18.5% (batters), 36.7% (pitchers)      |
+| SQL-SMILES Database    | MySQL, Python     | DB Schema Design, Querying, Views      | Designed relational DB + auto data loader  |
+| Sportipy – Running Analysis     | Python            | GPS Clustering, Data Viz, Heatmaps     | Visualized workout trends, spatial patterns |
+
+---
+
 ## Core Projects
 
 - ### Logistics Optimization & Demand Forecasting 📦 
