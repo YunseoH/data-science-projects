@@ -26,7 +26,7 @@ Provides insightful plots to explore running behavior:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Sportipy/
 ├── data/ # Workout datasets from Runtastic & TicExercise
