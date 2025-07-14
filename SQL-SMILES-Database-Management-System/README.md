@@ -47,8 +47,12 @@ python src/data_insertion.py
 - Modify existing records.
 - Create database views for easier reporting.
 
+---
+
 ## Documentation
 Detailed schema diagrams, ER diagrams, and example query outputs are included in `Documentation.pdf`.
+
+---
 
 ## Tech Stack
 - MySQL Workbench for database design & visualization.
