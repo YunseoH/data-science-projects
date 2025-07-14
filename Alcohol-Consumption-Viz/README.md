@@ -10,7 +10,7 @@ This is a **D3.js-based interactive dashboard** that visualizes alcohol consumpt
 
 ##  Project Structure
 ```
-├── index.html
+├── alcohol-consumption.html
 ├── js/
 │ ├── alcohol-consumption.js
 │ ├── bar-chart.js
