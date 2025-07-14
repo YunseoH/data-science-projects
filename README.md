@@ -7,15 +7,15 @@ This repository serves as my personal portfolio, showcasing selected projects fr
 
 ## Core Projects
 
-### Logistics Optimization & Demand Forecasting 📦 
+- ### Logistics Optimization & Demand Forecasting 📦 
 Conducted during an internship at LOGISALL (Seoul), this project optimized warehouse locations by clustering 32,000+ GPS data points, achieving ~15% projected reduction in transportation costs.  
 Developed short-term demand forecasting models using Prophet & ARIMA that improved prediction accuracy by ~20%, enabling more effective inventory management.
 
-### MLB Player Salary Prediction ⚾ 
+- ### MLB Player Salary Prediction ⚾ 
 Predicted MLB player salaries using Ridge and Lasso regression on performance metrics from Fangraphs and Statcast, explaining ~18.5% variance for batters and ~36.7% for pitchers.  
 Included log transformation to address heteroscedasticity and enforced MLB minimum salary rules for realistic projections.
 
-### Sportipy – Running Performance Analysis 🏃
+- ### Sportipy – Running Performance Analysis 🏃
 Processed running datasets from Runtastic and TicExercise to analyze workout patterns through data cleaning, visualization, and clustering of GPS coordinates.  
 Built Python functions to visualize distance trends, speed distributions, run start times, and created heatmaps of running itineraries.
 
