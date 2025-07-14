@@ -16,12 +16,12 @@ Separate models were built for batters and pitchers to capture their unique char
 
 ---
 
-## 📊 Tools & Libraries
+## Tools & Libraries
 - **R**: glmnet, caret, ggplot2, dplyr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 MLB-Player-Salary-Prediction/
 ├── MLB_Salary_Analysis.Rmd # R Markdown notebook with code & outputs
@@ -38,7 +38,7 @@ MLB-Player-Salary-Prediction/
 
 ---
 
-## 🔍 How It Works
+## How It Works
 - **Feature Engineering:** Combined Fangraphs & Statcast metrics with salary data to build comprehensive datasets for batters and pitchers.
 - **Regularized Regression:** 
   - Used `glmnet` to train Ridge and Lasso models.
