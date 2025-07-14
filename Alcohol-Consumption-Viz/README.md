@@ -32,8 +32,8 @@ This is a **D3.js-based interactive dashboard** that visualizes alcohol consumpt
 git clone https://github.com/YunseoH/data-science-projects.git
 cd data-science-projects/Alcohol-Consumption-Viz
 python3 -m http.server 8000
-Then open http://localhost:8000/index.html in your browser.
 ```
+Then open http://localhost:8000/index.html in your browser.
 
 ## Technologies
 
