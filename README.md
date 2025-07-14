@@ -47,7 +47,7 @@ This repository serves as my personal portfolio, showcasing selected projects fr
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages & Tools:** Python, R, SQL, Git
 - **Libraries & Frameworks:** scikit-learn, pandas, matplotlib, seaborn, Prophet, glmnet, caret, BeautifulSoup, D3.js, MySQL
