@@ -31,6 +31,7 @@ Provides insightful plots to explore running behavior:
 Sportipy/
 ├── data/ # Workout datasets from Runtastic & TicExercise
 ├── sportipy.py # Core script for processing, visualization & clustering
+├── output_plots # Plots produced from running the code
 └── README.md
 ```
 
