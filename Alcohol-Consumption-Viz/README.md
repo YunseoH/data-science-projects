@@ -25,7 +25,7 @@ This is a **D3.js-based interactive dashboard** that visualizes alcohol consumpt
 │ ├── wine-consumption-per-capita.csv
 │ ├── population.csv
 │ └── world.json
-└── output/ # output plot
+└── output.png # output plot
 ```
 
 ##  How to Run Locally
