@@ -71,6 +71,6 @@ The new models improved forecast accuracy by approximately **20%** compared to p
 >  Due to company confidentiality, no raw data is shared here.  
 > Only summary results and sanitized schema information are provided.  
 
---
+---
 
 ✅ This project gave me practical experience in applying clustering, geospatial analysis, and time series forecasting to solve real operational problems.
