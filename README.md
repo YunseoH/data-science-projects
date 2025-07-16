@@ -25,25 +25,25 @@ This repository serves as my personal portfolio, showcasing selected projects fr
   - Developed short-term demand forecasting models using Prophet & ARIMA that improved prediction accuracy by ~20%, enabling more    effective inventory management.
 
 - ### MLB Player Salary Prediction ⚾ 
-  Predicted MLB player salaries using Ridge and Lasso regression on performance metrics from Fangraphs and Statcast, explaining    ~18.5% variance for batters and ~36.7% for pitchers.  
-  Included log transformation to address heteroscedasticity and enforced MLB minimum salary rules for realistic projections.
+  - Predicted MLB player salaries using Ridge and Lasso regression on performance metrics from Fangraphs and Statcast, explaining    ~18.5% variance for batters and ~36.7% for pitchers.  
+  - Included log transformation to address heteroscedasticity and enforced MLB minimum salary rules for realistic projections.
 
 - ### Sportipy – Running Performance Analysis 🏃
-  Processed running datasets from Runtastic and TicExercise to analyze workout patterns through data cleaning, visualization,      and clustering of GPS coordinates.  
-  Built Python functions to visualize distance trends, speed distributions, run start times, and created heatmaps of running       itineraries.
+  - Processed running datasets from Runtastic and TicExercise to analyze workout patterns through data cleaning, visualization,      and clustering of GPS coordinates.  
+  - Built Python functions to visualize distance trends, speed distributions, run start times, and created heatmaps of running       itineraries.
 
 ---
 
 ## Additional Projects
 
 - **SQL-SMILES-Database-Management-System**  
-  Designed and implemented a relational database schema in MySQL Workbench, including indexing, constraints, complex queries,     and automated data loading with Python.
+  - Designed and implemented a relational database schema in MySQL Workbench, including indexing, constraints, complex queries,     and automated data loading with Python.
 
 - **Google-Scholar-Scraper**  
-  Developed a Python package to scrape, store, and analyze author & publication data from Google Scholar, featuring database caching, H-Index computation, and citation graph visualization.
+  - Developed a Python package to scrape, store, and analyze author & publication data from Google Scholar, featuring database caching, H-Index computation, and citation graph visualization.
 
 - **Alcohol-Consumption-Viz**  
-  Built an interactive D3.js dashboard to explore global alcohol consumption, with choropleth maps, bar charts, and scatter plots examining geographic patterns, health impacts, and population effects.
+  - Built an interactive D3.js dashboard to explore global alcohol consumption, with choropleth maps, bar charts, and scatter plots examining geographic patterns, health impacts, and population effects.
 
 ---
 
