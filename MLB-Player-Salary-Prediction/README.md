@@ -1,27 +1,36 @@
 # MLB Player Salary Prediction ⚾️
 
-This project predicts MLB player salaries using **regularized regression models** on player performance metrics.  
-Separate models were built for batters and pitchers to capture their unique characteristics.
+This project predicts Major League Baseball (MLB) player salaries using regularized regression models based on performance metrics from Fangraphs.  
+
+It was primarily designed to explore which statistics most influence salary determination and to estimate earnings for players whose salaries are not publicly available.
 
 ---
 
 ## Highlights
-- Developed **Ridge and Lasso regression models** to predict salaries for batters and pitchers.
-- Selected top features via `varImp` and correlation analysis to avoid multicollinearity.
-- Applied **log transformation** to stabilize variance in salaries.
-- Final **Lasso models** explained:
-  - ~18.5% variance for batters
-  - ~36.7% variance for pitchers
-- Enforced MLB **minimum salary ($720k)** during prediction to realistically handle outliers and low projections.
+
+- **Feature Engineering:**  
+  Combined advanced metrics (like wOBA, xFIP, WAR) from Fangraphs and salary data into comprehensive datasets for both batters and pitchers.
+
+- **Regularized Regression:**  
+  Built separate Ridge and Lasso models for batters and pitchers to handle multicollinearity and improve interpretability, achieving R² scores of ~18.5% for batters and ~36.7% for pitchers after log transformation.
+
+- **Minimum Salary Cap:**  
+  Incorporated MLB’s minimum salary rule ($720,000) directly into predictions to produce realistic outputs.
 
 ---
 
-## Tools & Libraries
-- **R**: glmnet, caret, ggplot2, dplyr
+## Data & Tools
 
----
+- **Data:**  
+  - Batters & pitchers performance stats (Fangraphs)  
+  - Official MLB payroll data
 
-## Project Structure
+- **Tech Stack:**  
+  - R (`glmnet`, `caret`, `dplyr`, `ggplot2`)  
+  - Extensive use of cross-validation for hyperparameter tuning
+
+- **Project Structure:**
+
 ```
 MLB-Player-Salary-Prediction/
 ├── MLB_Salary_Analysis.Rmd # R Markdown notebook with code & outputs
@@ -35,22 +44,8 @@ MLB-Player-Salary-Prediction/
 └── README.md
 ```
 
-
 ---
 
-## How It Works
-- **Feature Engineering:** Combined Fangraphs & Statcast metrics with salary data to build comprehensive datasets for batters and pitchers.
-- **Regularized Regression:** 
-  - Used `glmnet` to train Ridge and Lasso models.
-  - Compared RMSE and R² across models to pick the best.
-- **Interpretation:** Identified most influential performance metrics on salaries.
+✅ This project gave me practical experience in applying regularized regression and transformation techniques to tackle multicollinearity and skewed distributions, ultimately deriving meaningful insights into how specific player metrics drive MLB salaries.
 
----
-
-## Results Snapshot
-| Model    | Batters (R²) | Pitchers (R²) |
-|----------|--------------|---------------|
-| Lasso    | ~0.185       | ~0.367        |
-| Ridge    | Slightly lower performance |
-
-*Full detailed plots and residual diagnostics are available in `Final_Project_Report.pdf`.*
+📌 For full methodology, residual diagnostics, and discussions on model improvement (like adding team budgets or player branding factors), see `Final_Project_Report.pdf`.
