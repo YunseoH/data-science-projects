@@ -44,5 +44,6 @@ Then open http://localhost:8000/alcohol-consumption.html in your browser.
 - JavaScript (ES6+)
 - Python HTTP Server
 
-## Output
+## Output Screenshot
+Here’s a quick preview of the dashboard:
 ![Dashboard Screenshot](output.png)
