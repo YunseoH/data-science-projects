@@ -22,13 +22,13 @@ It combines automated scraping, intelligent caching, structured storage, and sim
 ---
 
 ## Key Features
-- 🚀 **DB Builder:**  
+- **DB Builder:**  
   Use `GoogleScholarDBBuilder` to populate the database in bulk by fetching multiple authors and their entire citation graph.
 
-- 🔄 **Cache merging:**  
+- **Cache merging:**  
   `copy_into()` allows merging caches from different runs or storage types.
 
-- 📊 **Visualization:**  
+- **Visualization:**  
   Quickly plot citation networks, highlight influential papers, or export interactive HTML graphs.
 
 ---
