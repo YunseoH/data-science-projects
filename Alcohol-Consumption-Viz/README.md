@@ -1,11 +1,13 @@
 # Alcohol Consumption Data Visualization 🥂📊
 
-This is a **D3.js-based interactive dashboard** that visualizes alcohol consumption across different countries and explores health impacts.
+This interactive dashboard explores how alcohol consumption patterns vary across countries and how they relate to alcohol-attributable health outcomes. Unlike static tables or simple charts, it allows users to dynamically toggle between beverage types, directly linking per capita consumption levels with alcohol-attributable fractions (AAF).
+
+By enabling this interactive exploration, the dashboard uncovers interesting trends — such as clusters of countries where higher spirit consumption aligns with elevated AAF percentages — providing a more intuitive starting point for deeper public health analysis.
 
 ## Features
--  **World choropleth map**: Geographic patterns
+-  **World choropleth map**: Geographic patterns in per capita alcohol consumption.
 -  **Bar chart**: Country-level comparisons
--  **Scatter plot**: Population vs. mortality
+-  **Scatter plot**: Alcohol consumption vs. Alcohol-attributable fractions
 -  **Radio filter**: Toggle between beer, wine, spirits
 
 ##  Project Structure
