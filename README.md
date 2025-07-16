@@ -21,8 +21,8 @@ This repository serves as my personal portfolio, showcasing selected projects fr
 ## Core Projects
 
 - ### Logistics Optimization & Demand Forecasting 📦 
-  Conducted during an internship at LOGISALL (Seoul), this project optimized warehouse locations by clustering 32,000+ GPS data    points, achieving ~15% projected reduction in transportation costs.  
-  Developed short-term demand forecasting models using Prophet & ARIMA that improved prediction accuracy by ~20%, enabling more    effective inventory management.
+  - Conducted during an internship at LOGISALL (Seoul), this project optimized warehouse locations by clustering 32,000+ GPS data    points, achieving ~15% projected reduction in transportation costs.  
+  - Developed short-term demand forecasting models using Prophet & ARIMA that improved prediction accuracy by ~20%, enabling more    effective inventory management.
 
 - ### MLB Player Salary Prediction ⚾ 
   Predicted MLB player salaries using Ridge and Lasso regression on performance metrics from Fangraphs and Statcast, explaining    ~18.5% variance for batters and ~36.7% for pitchers.  
