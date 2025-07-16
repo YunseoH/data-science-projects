@@ -47,3 +47,6 @@ Then open http://localhost:8000/alcohol-consumption.html in your browser.
 ## Output Screenshot
 Here’s a quick preview of the dashboard:
 ![Dashboard Screenshot](output.png)
+
+---
+✅ This project helped me explore how interactive data visualization can reveal complex patterns that static charts often miss.
