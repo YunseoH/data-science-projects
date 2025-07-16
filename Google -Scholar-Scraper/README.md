@@ -64,3 +64,8 @@ plt.show()
 ## Technologies
 - Python (Selenium, BeautifulSoup, SQLite, pandas, networkx, pyvis)
 - SQL for direct H-index computation
+
+---
+
+✅ Through this project, I gained hands-on experience in automating semi-structured web data collection, designing relational storage, and analyzing academic networks.
+
