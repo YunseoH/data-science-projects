@@ -1,59 +1,66 @@
-# Google Scholar API Package 📚🔍
+# Google Scholar Data Pipeline 🔍
 
-This is a Python package for **scraping, storing, and analyzing Google Scholar data**.  
-It supports fetching author/publication details, computing H-Index, and visualizing citation graphs.
-
----
-
-## Features
-- **Scraping**: Retrieve author and publication data from Google Scholar.
-- **Database**: Store parsed data in SQLite for efficient reuse and querying.
-- **Analytics**: Compute metrics like **H-Index** and visualize citation graphs using NetworkX.
-- **Testing**: Comprehensive unit tests to ensure reliability.
+This project was developed as part of a university assignment to build a complete data pipeline for extracting and analyzing academic metrics from Google Scholar.  
+It combines automated scraping, intelligent caching, structured storage, and simple network analysis to explore author profiles and citation relationships.
 
 ---
 
-## Project Structure
-```
-├── gscholar/ # Core Python package
-│ ├── db/ # Database-related modules (e.g., schema, helpers)
-│ ├── scraping/ # Web scraping logic for Google Scholar
-│ ├── utils/ # Utility functions (helpers, shared tools)
-│ │   ├── GoogleScholarDB.py # Main DB management (create, query, compute H-index)
-│ │   └── init.py # Package init
-├── test/ # Unit tests for different modules
-├── LICENSE # License information
-├── scraper.ipynb # Example Jupyter notebook (usage demo & visualization)
-├── setup.cfg # Package configuration (metadata)
-├── setup.py # Install script for pip install
-└── tox.ini # Testing automation config (via tox)
-```
+## What it does
+- 🔎 **Scrapes Google Scholar:**  
+  Collects author profiles (name, affiliation, citations, h-index, i10-index), publication lists, and citation links using Selenium + BeautifulSoup.
+
+- 💾 **Caches fetched pages:**  
+  Efficient caching to avoid redundant requests, with support for both file-based (`GoogleScholarCacheFile`) and SQLite-based (`GoogleScholarCacheSQLite`) backends.
+
+- 🗄️ **Builds structured database:**  
+  Stores data in a relational SQLite DB with tables for authors, publications, authorship, and citation edges.
+
+- 📈 **Analyzes academic networks:**  
+  - `get_h_index(author_id)`: computes H-index directly via SQL queries.
+  - `get_citation_graph(focus_authors=None)`: creates a citation network using NetworkX (or pyvis for interactive HTML).
 
 ---
 
-## Installation
+## Key Features
+- 🚀 **DB Builder:**  
+  Use `GoogleScholarDBBuilder` to populate the database in bulk by fetching multiple authors and their entire citation graph.
 
-```
-pip install .
-```
-or for development
-```
-pip install -e .
-```
+- 🔄 **Cache merging:**  
+  `copy_into()` allows merging caches from different runs or storage types.
 
-### Example Usuage
+- 📊 **Visualization:**  
+  Quickly plot citation networks, highlight influential papers, or export interactive HTML graphs.
 
-```
+---
+
+## Example Usage
+```python
 from gscholar.scraping.GoogleScholar import GoogleScholar
-from gscholar.utils.GoogleScholarDB import GoogleScholarDB
+from gscholar.scraping.cache.GoogleScholarCacheSQLite import GoogleScholarCacheSQLite
+from gscholar.GoogleScholarDB import GoogleScholarDB
+from gscholar.db.GoogleScholarDBBuilder import GoogleScholarDBBuilder
 
-gs = GoogleScholar()
-author = gs.get_author_details("yySZFKoAAAAJ")
+# Setup
+cache = GoogleScholarCacheSQLite("my_cache.sqlite")
+gs = GoogleScholar(cache=cache)
+db = GoogleScholarDB("my_academic_data.sqlite")
+builder = GoogleScholarDBBuilder(gs, db)
 
-db = GoogleScholarDB("scholar.sqlite")
-db.add_author("yySZFKoAAAAJ", "Bruno Bodin")
-h_index = db.get_h_index("yySZFKoAAAAJ")
-print(f"H-Index: {h_index}")
+# Fetch authors and build database
+author_list = ["1TUANHcAAAAJ", "x2MfRUYAAAAJ", "ky6n3gwAAAAJ"]
+builder.fetch_authors(author_list)
+
+# Analysis
+print(db.get_h_index("1TUANHcAAAAJ"))
+graph = db.get_citation_graph(focus_authors=author_list)
+
+# Visualization with NetworkX
+import networkx as nx
+import matplotlib.pyplot as plt
+nx.draw(graph, with_labels=True, node_size=50)
+plt.show()
 ```
-See scraper.ipynb for more advanced examples.
 
+## Technologies
+- Python (Selenium, BeautifulSoup, SQLite, pandas, networkx, pyvis)
+- SQL for direct H-index computation
