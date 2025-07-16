@@ -1,4 +1,4 @@
-# Google Scholar Data Pipeline 🔍
+# Google Scholar Scraper 🔍
 
 This project was developed as part of a university assignment to build a complete data pipeline for extracting and analyzing academic metrics from Google Scholar.  
 It combines automated scraping, intelligent caching, structured storage, and simple network analysis to explore author profiles and citation relationships.
