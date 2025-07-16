@@ -21,9 +21,8 @@ The placement of warehouses is crucial to minimize transportation costs and deli
 **Impact:**  
 This approach identified an optimal warehouse relocation that could reduce average delivery distances by ~15%, translating into tangible cost savings.
 
-**Data Schema (GPS)**
 
-### Data Schema (GPS)
+**Data Schema (GPS)**
 
 |    Column    |          Description           |
 |--------------|--------------------------------|
@@ -50,7 +49,7 @@ Accurate demand forecasts are critical to prevent costly overstock or stockouts.
 **Impact:**  
 The new models improved forecast accuracy by approximately **20%** compared to previous naive approaches.
 
-### Data Schema (Quantity)
+**Data Schema (Quantity)**
 |     Column    | Description |
 |---------------|--------------------------|
 | `date`        | Year/Month of order      |
