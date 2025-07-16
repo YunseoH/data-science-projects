@@ -43,3 +43,5 @@ Then open http://localhost:8000/alcohol-consumption.html in your browser.
 - D3.js for visualization
 - JavaScript (ES6+)
 - Python HTTP Server
+
+![Dashboard Screenshot](output.png)
