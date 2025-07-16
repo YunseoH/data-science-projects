@@ -1,22 +1,27 @@
 # Logistics Optimization & Demand Forecasting 📦
 
-This project was conducted during my internship at **LOGISALL** (Seoul, South Korea).  
-It consists of two separate objectives:
+This project was carried out during my internship at LOGISALL (Seoul, South Korea) to improve the efficiency of warehouse operations and inventory management.  
 
-1. **Optimizing logistics center locations** using GPS delivery data.
-2. **Forecasting short-term vendor demand** to improve inventory planning.
-
+It focuses on two main challenges:
+1. Optimizing warehouse locations based on actual GPS delivery patterns.
+2. Forecasting short-term vendor-specific demand to minimize inventory risks.
+   
 ---
 
 ## 1. Optimal Warehouse Location 🚚 
 
-### Goal
-Identify the most cost-efficient warehouse locations to minimize transportation distance and delivery costs.
+**Why?**  
+The placement of warehouses is crucial to minimize transportation costs and delivery times. Existing warehouse sites were not necessarily aligned with the true delivery paths, leading to avoidable expenses.
 
-### Approach
-- Processed over **32,000+ GPS delivery data points**.
-- Applied **K-Means clustering** to determine ideal central locations based on actual delivery patterns.
-- Integrated **OpenStreetMap road network data** to compute realistic travel distances, estimating ~15% cost savings by relocating warehouses.
+**How?**  
+- Processed over **32,000 GPS records** of delivery vehicles.
+- Applied **K-Means clustering** to find natural delivery hubs from frequent routes.
+- Used **OpenStreetMap (OSM) road network data** with `OSMnx` to calculate realistic travel distances and accessibility.
+
+**Impact:**  
+This approach identified an optimal warehouse relocation that could reduce average delivery distances by ~15%, translating into tangible cost savings.
+
+**Data Schema (GPS)**
 
 ### Data Schema (GPS)
 
@@ -34,12 +39,16 @@ Identify the most cost-efficient warehouse locations to minimize transportation 
 
 ## 2. Demand Forecasting 📈 
 
-### Goal
-Build lightweight models to predict short-term vendor-specific demand, enabling more precise procurement and reducing inventory risk.
+**Why?**  
+Accurate demand forecasts are critical to prevent costly overstock or stockouts. The goal was to build lightweight models suitable for operational environments.
 
-### Approach
-- Used **ARIMA & Prophet models** on vendor time series data.
-- Improved forecast accuracy by ~20% vs. prior naive estimates.
+**How?**  
+- Developed per-vendor time series models using **ARIMA** (with log transforms & seasonality) and **Prophet** (daily trends).
+- Applied outlier detection (IQR & Z-score) to stabilize data.
+- Forecasted 30-day demand to support procurement planning.
+
+**Impact:**  
+The new models improved forecast accuracy by approximately **20%** compared to previous naive approaches.
 
 ### Data Schema (Quantity)
 |     Column    | Description |
@@ -62,3 +71,7 @@ Build lightweight models to predict short-term vendor-specific demand, enabling 
 ##  Data Privacy
 >  Due to company confidentiality, no raw data is shared here.  
 > Only summary results and sanitized schema information are provided.  
+
+--
+
+✅ This project gave me practical experience in applying clustering, geospatial analysis, and time series forecasting to solve real operational problems.
