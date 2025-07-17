@@ -1,7 +1,13 @@
 # Data Science Portfolio
 
-Hi! I’m Yunseo, a recent graduate in Data Science with hands-on experience in clustering, forecasting, regression modeling, database design, and interactive visualization.  
-This repository serves as my personal portfolio, showcasing selected projects from my undergraduate studies and internships where I applied data-driven techniques to solve real-world problems.
+Hello, I'm Yunseo!
+
+I'm a data science graduate with a liberal arts foundation — trained to think across disciplines, ask the right questions, and communicate insights clearly.
+
+This repo is my personal portfolio, featuring projects from my studies and internships where I used data to make sense of uncertainty and solve real-world problems.
+
+From clustering and forecasting to dashboards and database design — scroll down to explore.
+
 
 ---
 
