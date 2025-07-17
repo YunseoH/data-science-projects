@@ -3,7 +3,7 @@
 ## About Me
 
 Hello! I'm Yunseo — a data science graduate with a liberal arts background from Yale-NUS College.  
-I’m passionate about using data to make better decisions in uncertain situations, and I enjoy translating complexity into clear, actionable insights.
+I'm passionate about using data to drive better decisions in uncertain situations — and I love turning complexity into clear, actionable insights.
 
 Having grown up in Korea and studied in Singapore, I bring both adaptability and a global mindset to my work.  
 This portfolio highlights some of the projects where I’ve used data to solve real problems — hope you find something that resonates!
