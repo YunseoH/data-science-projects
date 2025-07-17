@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## 🙋‍♀About Me
+## About Me
 
 Hello! I'm Yunseo — a data science graduate with a liberal arts background from Yale-NUS College.  
 I’m passionate about using data to make better decisions in uncertain situations, and I enjoy translating complexity into clear, actionable insights.
