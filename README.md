@@ -1,12 +1,12 @@
 # Data Science Portfolio
 
-Hello, I'm Yunseo!
+## 🙋‍♀About Me
 
-I'm a data science graduate with a liberal arts foundation — trained to think across disciplines, ask the right questions, and communicate insights clearly.
+Hello! I'm Yunseo — a data science graduate with a liberal arts background from Yale-NUS College.  
+I’m passionate about using data to make better decisions in uncertain situations, and I enjoy translating complexity into clear, actionable insights.
 
-This repo is my personal portfolio, featuring projects from my studies and internships where I used data to make sense of uncertainty and solve real-world problems.
-
-From clustering and forecasting to dashboards and database design — scroll down to explore.
+Having grown up in Korea and studied in Singapore, I bring both adaptability and a global mindset to my work.  
+This portfolio highlights some of the projects where I’ve used data to solve real problems — hope you find something that resonates!
 
 
 ---
